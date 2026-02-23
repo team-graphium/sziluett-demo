@@ -4,7 +4,7 @@ from __future__ import annotations
 from typing import Any, Dict, List, Tuple, Optional
 
 import numpy as np
-from sentence_transformers import SentenceTransformer
+#from sentence_transformers import SentenceTransformer
 
 import utils as U
 
@@ -18,7 +18,7 @@ HIGH = U.HIGH
 # =========================
 
 def compute_centroids_for_inference(
-    model: SentenceTransformer,
+    model: str,
     jsonl_path: str,
     factors: Optional[List[str]] = None,
     centroid_mode: U.CentroidMode = "passage_mean",
@@ -52,7 +52,7 @@ def compute_centroids_for_inference(
 # =========================
 
 def estimate_factor_scores_for_text(
-    model: SentenceTransformer,
+    model: str,
     centroids: Dict[str, np.ndarray],
     text: str,
     pos_calib: Optional[Dict[str, Tuple[float, float]]] = None,
@@ -64,7 +64,7 @@ def estimate_factor_scores_for_text(
 
 
 def compute_factor_scores_for_texts(
-    model: SentenceTransformer,
+    model: str,
     centroids: Dict[str, np.ndarray],
     texts: List[str],
     pos_calib: Optional[Dict[str, Tuple[float, float]]] = None,
@@ -77,7 +77,7 @@ def compute_factor_scores_for_texts(
 # =========================
 
 def compute_factor_pos_calibration(
-    model: SentenceTransformer,
+    model: str,
     centroids: Dict[str, np.ndarray],
     jsonl_path: str,
     factors: Optional[List[str]] = None,
