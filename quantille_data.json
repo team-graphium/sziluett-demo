@@ -1,0 +1,1400 @@
+{
+  "REF": {
+    "factor_name": "Reflexió",
+    "Sziluett személyiségfaktor rövidítése:": "őszinte önreflexió és a szokások megváltoztatása",
+    "Kategória ahová a faktor tartozik:": "Motiváció & problémamegoldás",
+    "factor_shortage": "REF",
+    "factor_description": "Ez a faktor az őszinte önreflexióra és a szokásaink megváltoztatására irányuló hajlandóségunkat jellemzi. A merevebb, önmagukat ritkábban megkérdőjelező karakterek kevésbé nyitottak a visszajelzésekre és alig-alig próbálnak bevett gyakorlataikon változtatni. Az önfejlesztésre nyitottabbak befogadóbbak a kritikára, gyakrabban elemzik tetteik környezetre gyakorolt hatásait, és igyekeznek tanulni a hibáikból. ",
+    "LOW_Faktorértékek fő zónái:": "1-4",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-Ragaszkodik a megszokott módszerekhez\r\n-Visszautasítja a kritikát \r\n-Csak kevés embertől fogad el visszajelzést, és azt is gyakran fenntartásokkal kezeli\r\n-Ritkán elemzi saját tetteit vagy azok hatásait\r\n-Úgy érzi, nincs szükség változtatásra, mert ő már így is hatékonyan cselekszik\r\n-Úgy gondolja, hogy az emberek alapvetően nem változnak\r\n-Gyakran hangoztatja, hogy mások kritikája irreleváns vagy téves",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-Nyitott a visszajelzésekre, szívesen fogadja azokat\r\n-Önelemző karakter: gyakran átgondolja saját tetteit, döntéseit és azok következményeit\r\n-Úgy tekint a hibákra, mint tanulási lehetőségekre\r\n-Könnyebben változtat meglévő szokásain\r\n-Nyitott a fejlődésre: szívesen kísérletezik a saját szokásaival\r\n-Nemcsak a közvetlen környezetéből, hanem másoktól is elfogad javaslatokat",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "low": {
+      "comfort_situations": [
+        "Ha a bevált szokásai mentén dolgozhat [pl. egy tapasztalt senior szakemberként vagy egy szigorúan szabályozott környezetben]",
+        "A környezete nem kérdőjelezi meg az eljárásait",
+        "Ha egy egészen kialakult, beállt vállalati kultúrában dolgozhat",
+        "Ha a vállalat, ahol dolgozik monopolhelyzetben van a piacon vagy kevésbé turbulens a piaci környezete"
+      ],
+      "discomfort_situations": [
+        "Gyakran kap visszajelzéseket, javaslatokat arra, amit csinál",
+        "Meg kell változtatnia a bevált módszereit",
+        "Új szokásokat kell kialakítania",
+        "Nyíltan kell beszélni a hibáiról"
+      ],
+      "typical_phrases": [
+        "\"Ez hülyeség.\"",
+        "\"Ez így működik, minek változtatni?\"",
+        "\"Ez az én módszerem, és működik.\"",
+        "\"Nem értem, miért fontos ez.\"",
+        "\"Az emberek nem változnak.\"",
+        "\"Csak azért, mert te így gondolod, még nem biztos, hogy igaz.\""
+      ],
+      "manager_motivation_phrases": [
+        "\"Ez a módszer már bevált, csak így tovább!\"",
+        "\"Ez a megoldás bizonyította, hogy jól csinálod.\"",
+        "\"Bízhatsz a tapasztalatodban.\"",
+        "\"Beszéljük meg négyszemközt, hátha tudok benne segíteni.\""
+      ],
+      "development_opportunities": [
+        "A kudarchelyzetek újragondolása [pl. időgép gyakorlattal: ha visszarepülnék, mit csinálnék másként, hogy úgy alakuljon, ahogy szerettem volna]",
+        "A hozzá legközelebb álló, legbizalmibb kapcsolatától visszajelzést kérni a helyzeteire",
+        "Tudatosítani, hogy a világban nagyon gyors változások zajlanak, ami az ő körülményeire is törvényszerűen hat: ha akarja, ha nem. A rugalmas hozzáállás alapvetően befolyásolja a hétköznapi sikereket."
+      ]
+    },
+    "high": {
+      "comfort_situations": [
+        "A visszajelzéseken alapuló fejlődést: szívesen fogad konstruktív kritikát",
+        "A folyamatos önfejlesztést – motiválja, ha tréningekre, workshopokra, coachingra járhat",
+        "Ha a vállalatnál, ahol dolgozik, fejlett a hibakultúra"
+      ],
+      "discomfort_situations": [
+        "Nem kap visszajelzéseket",
+        "Nincs lehetősége a szokásai, automatizmusai, rituáléjai újragondolására, fejlesztésére",
+        "A környezete a hibázást nem a fejlődés lehetőségének tekinti",
+        "Mások nem fogadják el a tőle érkező visszajelzéseket"
+      ],
+      "typical_phrases": [
+        "\"Köszönöm a visszajelzést, megfontolom.\"",
+        "\"Érdekes gondolat, érdemes kipróbálni.\"",
+        "\"Miben tudnék fejlődni?\"",
+        "\"Van benne igazság, megpróbálom másképp.\"",
+        "\"Ez jó tanulság volt.\"",
+        "\"Mindig van hova fejlődni.\"",
+        "\"A hibáimból építkezem.\"",
+        "\"Mit gondolsz, hogyan tudnám jobban csinálni?\""
+      ],
+      "manager_motivation_phrases": [
+        "\"Mit tanultál ebből?\"",
+        "\"Szuper, hogy kipróbáltad!\"",
+        "\"Ez egy tanulság, lépjünk tovább!\"",
+        "\"Nagyszerű, hogy ezt felismered.\"",
+        "\"Látszik, hogy fejlődsz.\"",
+        "\"Ez egy fejlődési lehetőség.\""
+      ],
+      "development_opportunities": [
+        "Figyeljen oda, hogy a túl sok visszajelzés az énkép töredezettségéhez vezethez: próbálja meg a különböző helyzetekben reálisan látni és elfogadni, hogy hol vannak a személyiségének a határai, amit már nem fog tudni integránsan megfejlődni.",
+        "Tudatosítsa, hogy főként az integráns, értékteremtő, jószándékú és sikeres emberek visszajelzéseit érdemes végigondolnia."
+      ]
+    }
+  },
+  "FOG": {
+    "factor_name": "Fogalmi gondolkodás",
+    "Sziluett személyiségfaktor rövidítése:": "FOG ",
+    "Kategória ahová a faktor tartozik:": "Motiváció & problémamegoldás",
+    "factor_shortage": "FOG",
+    "factor_description": "Ez a faktor megmutatja, hogy a mindennapi írott és szóbeli kommunikációban milyen összetettséggel és részletességgel tudjuk feldolgozni és kifejezni a legkülönfélébb gondolatokat, információkat. A lényegretörőbb gondolkodással rendelkezők sokkal inkább a konkrét példákon keresztüli megértést részesítik előnyben, míg a komplexebbek az ismeretlenebb, bonyolultabb, elvontabb problémákban is otthonosan mozognak. ",
+    "LOW_Faktorértékek fő zónái:": "1-4",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-Egyszerű, lényegretörő kommunikációra törekszik\r\n-Az elvont fogalmak helyett a gyakorlati, kézzelfogható példákon keresztül ért és magyaráz dolgokat\r\n-Kerüli a bonyolult fogalmazást\r\n-Kérdésekre egyértelmű válaszokat ad\r\n-Nehézséget okoz számára az absztrakt gondolkodás\r\n-Hétköznapi szókincsét használja\r\n-Utólag pontosítja a gondolatait\r\n-Kerüli a részletes vitákat\r\n-Összetettebb magyarázatból nehezen szűri ki a lényeget\r\n-Általános kérdés esetén másra vonatkozó választ ad",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-Választékosan és összetetten kommunikál\r\n-Könnyen megérti az összetett információkat\r\n-Olvas a sorok között\r\n-Kedveli a hosszabb, részletes magyarázatokat\r\n-Továbbfűzi mások gondolatait\r\n-Absztrakt kérdéseket is szívesen vizsgál\r\n-Jól strukturált gondolatokat fogalmaz meg\r\n-Kreatív érvelést alkalmaz",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "low": {
+      "comfort_situations": [
+        "Egyszerű, tömör kommunikációt igénylő helyzeteket",
+        "Konkrét példákkal alátámasztott érvek",
+        "Tiszta, könnyen értelmezhető üzenetek",
+        "Olyan helyzeteket, ahol a megoldás gyorsan és egyértelműen megtalálható",
+        "Hétköznapi nyelvezetet használó beszélgetések",
+        "Rövid, célirányos megbeszélések",
+        "Rövid, érthető vélemények és javaslatok fogadása a munkájáról"
+      ],
+      "discomfort_situations": [
+        "Hosszú, bonyolult magyarázatokat kell követnie",
+        "Elméleti, absztrakt kérdéseket kell megvitatnia",
+        "Nincs konkrét példa vagy irányvonal",
+        "Hosszú dokumentumokat kell értelmeznie",
+        "Választékos, bonyolult szókincset használnak körülötte",
+        "Nincs egyértelműen megfogalmazott elvárás",
+        "Sok elméleti részletbe kell belemenni",
+        "Folyamatosan választékosan kell fogalmaznia",
+        "Gyorsan kell reagálnia komplex kérdésekre"
+      ],
+      "typical_phrases": [
+        "\"Röviden, mi a lényeg?\"",
+        "\"Mondj egy példát!\"",
+        "\"Egyszerűen magyarázd el, kérlek.\"",
+        "\"Ez pontosan mit jelent?\"",
+        "\"Nem kell túlmagyarázni.”",
+        "\"Csak a fontos részeket mondd el.\""
+      ],
+      "manager_motivation_phrases": [
+        "\"Egyszerűsítsük le, hogy könnyebben átlássuk.\"",
+        "\"Csak a lényeget mondd el, az is elég.\"",
+        "\"Mondj egy konkrét példát, azzal minden világos lesz.\"",
+        "\"Röviden összefoglalva mit gondolsz?\"",
+        "\"Nagyon jól érthetően fogalmaztál, így már minden tiszta.\"",
+        "\"Térjünk a lényegre, nincs szükség hosszas részletekre.\""
+      ]
+    },
+    "high": {
+      "comfort_situations": [
+        "Az összetett témákat igénylő megbeszéléseket",
+        "A részletes magyarázatokat és vitákat",
+        "Az elvont problémák megoldását",
+        "A tartalmas, pontos kifejtést igénylő beszélgetéseket",
+        "A többértelmű kérdések megvitatását",
+        "A választékos kommunikációs környezetet"
+      ],
+      "discomfort_situations": [
+        "Túl egyszerű és rövid kommunikációval találkozik",
+        "Nincs lehetőség mélyebben kifejteni a gondolatait",
+        "Egyszerűsített, hétköznapi szókincset kell használnia",
+        "Csak példákon keresztül kell megvilágítania egy témát",
+        "Vita vagy beszélgetés során gyorsan lezárják a témát",
+        "Nem veszik figyelembe az árnyalt meglátásait",
+        "Egyszerűsített döntéseket kell hoznia",
+        "Nehezen éli meg, ha nincs lehetősége hozzájárulni a hosszú távú, komplex stratégiák kialakításához"
+      ],
+      "typical_phrases": [
+        "\"Ez egy érdekes megközelítés, és szerintem...\"",
+        "\"Szerintem ez egy kicsit összetettebb.\"",
+        "\"Továbbgondolva a korábbi beszélgetést...\"",
+        "\"Mi az, amit még nem vettünk figyelembe?\"",
+        "\"Hogyan kapcsolódik ez más folyamatokhoz?\"",
+        "\"Ezt árnyaljuk még egy kicsit.\"",
+        "\"Fejtsd ki bővebben, részletesebben.\""
+      ],
+      "manager_motivation_phrases": [
+        "\"Érdekel a gondolatmeneted, fejtsd ki az egészet.\"",
+        "\"Összefoglalnád a teljes képet, amit látunk?\"",
+        "\"Mindig nagyon cizelláltan fogalmazol.\"",
+        "\"Mi az, amit még belevehetnénk a képbe?\"",
+        "\"Látsz még ebben valamit?\""
+      ]
+    }
+  },
+  "SZAM": {
+    "factor_name": "Gondolkodás számokban",
+    "Sziluett személyiségfaktor rövidítése:": "SZAM",
+    "Kategória ahová a faktor tartozik:": "Motiváció & problémamegoldás",
+    "factor_shortage": "SZAM",
+    "factor_description": "Ez a faktor megmutatja, hogy milyen összetettséggel és részletességgel tudunk számszerűsített problémákban eligazodni. Az alapműveletek [összeadás, kivonás, szorzás, osztás] inkább biztonsággal kezelők a legfontosabb összefüggésekre szorítkoznak, akár a számok világán kívüli példákkal magyarázva azokat. A komplexebb numetikus gondolkodásúak bonyolultabb, összetettebb logikai összefüggésekkel is szívesen dolgoznak, gyakran fordítva le számokra eredendőan nem számszerű problémákat. ",
+    "LOW_Faktorértékek fő zónái:": "1-4",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-Kerüli a számokkal való munkát \r\n-Egyszerűbb műveleteket kedvel\r\n-Gyakran használ számológépet\r\n-Nem érvel számszerűen\r\n-Számokra alapozás helyett általános megállapításokra támaszkodik\r\n-Ritkán beszél arányokról vagy nagyságrendekről\r\n-Elbizonytalanodik bonyolult logikai feladatoknál",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-Szeret és könnyen dolgozik számokkal\r\n-Bonyolultabb számításokat is jól elvégez\r\n-Gyorsan értelmezi a kimutatásokat\r\n-Számszerűsít, ha érvel\r\n-Fejben is magabiztosan számol\r\n-Élvezi a numerikus kihívásokat [pl. pénzügyi elemzés, matematikai probléma]\r\n-Gyakran százalékokkal, nagyságrendekkel, adatokkal fejezi ki magát\r\n-Több numerikus alternatívát is mérlegel: különböző számítási lehetőségeket vizsgál a legjobb döntés érdekében",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "low": {
+      "comfort_situations": [
+        "Az egyszerű számításokat igénylő feladatokat",
+        "Számológép vagy táblázat segítségével végzett ellenőrzéseket",
+        "Számszerűsítést nem igénylő problémákat",
+        "Lényegretörő kimutatásokat és adatokat",
+        "Gyakorlati, hétköznapi példák használatát a számok helyett",
+        "Táblázatok helyett inkább szöveget vagy képeket tartalmazó információs anyagokat",
+        "Olyan feladatokat, amelyek nem igényelnek összetett számolást"
+      ],
+      "discomfort_situations": [
+        "Bonyolult számításokat kell végeznie",
+        "Számokkal kell érvelnie",
+        "Összetett statisztikai elemzéseket kell készítenie vagy áttekintenie",
+        "Számszerű hibákért vállalnia kell a felelősséget",
+        "Gyorsan kell fejben számolnia, összehasonlítania eredményeket"
+      ],
+      "typical_phrases": [
+        "\"Ez mennyi is pontosan?\"",
+        "\"Kéne ehhez egy számológép.\"",
+        "\"Nagyjából ennyi lehet.\"",
+        "\"Nem akarom elrontani, inkább ellenőrizd le.\"",
+        "\"Ezt most nem szeretném kiszámolni.\"",
+        "\"Számok helyett inkább magyarázzuk el egyszerűen, szóban.\"",
+        "\"Ez túl sok szám, nem látom át elsőre.\""
+      ],
+      "manager_motivation_phrases": [
+        "\"Egyszerűsítsük le, hogy könnyebb legyen.\"",
+        "\"Koncentráljunk a lényegre, hagyjuk a számmisztikát.\"",
+        "\"Ez nem matekóra, ne bonyolítsuk túl.\"",
+        "\"Ne aggódj a számítások miatt, megoldjuk együtt.\"",
+        "\"Csak az összefoglalót nézd át, a részletes kimutatásokkal nem kell foglalkoznod.'"
+      ]
+    },
+    "high": {
+      "comfort_situations": [
+        "A számszerű adatokon alapuló döntéshozatalt",
+        "Kimutatások és statisztikák áttekintését",
+        "Összetett logikai, numerikus feladatokat",
+        "Számszerű érvekkel alátámasztott kommunikációt",
+        "Pénzügyi vagy üzleti adatokat"
+      ],
+      "discomfort_situations": [
+        "Nincs elég számszerű adat a döntésekhez vagy a problémák megoldásához",
+        "Számok helyett érzelmekkel érvel a környezete",
+        "Nincs a feladataiban logikai kihívás",
+        "Egyszerűsíteni kell a számadatokat, a komplex összefüggéseket le kell redukálnia",
+        "Szubjektív megítélés alapján kell dönteni",
+        "Nem pontos számadatokkal kell dolgoznia",
+        "Monoton, egyszerű szímításokat kell végezni"
+      ],
+      "typical_phrases": [
+        "\"Hány százaléknál vagyunk?\"",
+        "\"Mennyi a pontos érték?\"",
+        "\"Számokkal jobban alá tudjuk támasztani.\"",
+        "\"Hozzáadjuk ezt az adatot is az elemzéshez?\"",
+        "\"Ez mennyi idő alatt térül meg?\"",
+        "\"Pontosan hány egységet jelent ez?\"",
+        "\"Mit mondanak a számok?\"",
+        "\"Számszerűsítsük a várható eredményeket.\"",
+        "\"Hogyan jött ki ez az arány?\""
+      ],
+      "manager_motivation_phrases": [
+        "\"Az adataid mindig megbízhatóak.\"",
+        "\"Hogyan látod a számok tükrében?\"",
+        "\"Ezt te pikk-pakk kiszámolod.\"",
+        "\"Rád bízom a részletes számításokat.\"",
+        "\"Mit mutatnak a számok?\"",
+        "\"Otthonosan mozogsz a számokban.\"",
+        "\"Simán átlátod a kimutatásokat.\""
+      ]
+    }
+  },
+  "GYAK": {
+    "factor_name": "Gyakorlati",
+    "Sziluett személyiségfaktor rövidítése:": "GYAK",
+    "Kategória ahová a faktor tartozik:": "Motiváció & problémamegoldás",
+    "factor_shortage": "GYAK",
+    "factor_description": "Ez a faktor megmutatja, hogy mennyire hozzák Önt lázba a fizikai aktivitást igénylő feladatok és a manuális tevékenységek, ha valami kézzelfoghatóan dolgozhat különféle módszerek és eszközök felhasználásával ",
+    "LOW_Faktorértékek fő zónái:": "1-4",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-Kerüli, halogatja a fizikai, manuális munkavégzést\r\n-Örömmel adja át másnak az apró operatív feladatok kivitelezését \r\n-Inkább íróasztal mellett szeret dolgozni, terepmunka helyett\r\n-Problémamegoldásában kevésbé bontja le a feladatokat kézzel fogható lépésekre",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-Szeret benne lenni a megvalósítás, kivitelezés sűrűjében\r\n-Feladatcentrikus, cselekvésorientált\r\n-Szereti ,,bepiszkolni\" a kezét\r\n-Kedveli a fizikai aktivitással, jövés-menéssel, utazással járó feladatokat\r\n-Szereti a manuális tevékenységeket, megszerelni vagy megépíteni valamit\r\n-Problémamegoldásában kézzelfogható, praktikus szempontokat érvéynesít, pl. hogy az ügyfél hogyan fogja használni a terméket",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "low": {
+      "comfort_situations": [
+        "Az operatív megvalósítás lépéseiből minél kevesebbet kell neki megcsinálnia",
+        "Inkább az elképzelések összegyűjtésében, előzetes ötletelésben, előkészítésében vesz részt [pl. stratégiai brainstorming]",
+        "Gépek, szerszámok, eszközök nélkül dolgozhat [pl. egy fókuszcsoportban vagy ügyfélszolgálati területen]",
+        "Irodában vagy otthonról dolgozhat és nem kell sokat utaznia, autót vezetnie"
+      ],
+      "discomfort_situations": [
+        "Feladatai jelentős fizikai aktivitással, jövés-menéssel járnak",
+        "Manuális, kétkezi munkát kell végeznie [pl. kerti munka]",
+        "Technikai készséget, mechanikai érzéket igénylő feladatokat kap [pl. összeszerelés, gyártás]",
+        "Részletekbe menően kell egy feladat operatív lépéseit kitalálnia és végrehajtania [pl. egy rendezvény minden apró helyszíni részlete]",
+        "Meg kell javítania valamilyen eszközt vagy gépet",
+        "Munkavégzése közben sokat kell utaznia vagy járművet vezetnie"
+      ],
+      "typical_phrases": [
+        "\"A megvalósítást másra bíznám, én szívesen kitalálom\"",
+        "\"Szerintem én ehhez nem kellek\"",
+        "\"Ne vágjunk bele csak úgy\"",
+        "\"Megcsinálod?\"",
+        "\"Nem az én asztalom a fizikai részletek”"
+      ],
+      "manager_motivation_phrases": []
+    },
+    "high": {
+      "comfort_situations": [
+        "A gyakorlatias feladatokat [pl.: gépbeállítás, gépkezelés, javítás-szerelés, építés]",
+        "A kézzelfogható, operatív feladatmegoldást [pl. egy termék használhatóságának, funkcióinak megtervezését, vagy egy projekt kivitelezésének lépésekre bontását]",
+        "Fizikai munkavégzést [pl. pakolást, csomagolást]",
+        "Járművezetést"
+      ],
+      "discomfort_situations": [
+        "Csak megfigyelő vagy tervező lehet, de nem vehet részt a megvalósításban",
+        "Kevés mozgást igénylő feladatai vannak [pl. állandó számítógép előtt ülés]",
+        "Nincs kézzel fogható eredménye a munkájának",
+        "Nem működnek az eszközei, vagy az egyes munkafázisok nem hatékonyak, olajozottak [pl. hirtelen elromlott a nyomtatója]",
+        "Túl elméleti egy megközelítés vagy feladat [pl. matematikaoktatás]",
+        "Csak beszélnek a feladatról, anélkül, hogy belevágnának"
+      ],
+      "typical_phrases": [
+        "\"Megcsináljuk\"",
+        "\"Kész van\"",
+        "\"Ennek működnie kell\"",
+        "\"Kipróbáltam és bevált\"",
+        "\"Összehozzuk valahogyan\"",
+        "\"Kezdjünk bele, majd útközben megoldjuk!\"",
+        "\"Mutasd, megcsinálom\"",
+        "\"Amíg nincs kész, nem nyugszom\"",
+        "\"Csapassuk\"",
+        "\"Vágjunk bele\"",
+        "\"Kézzel fogható eredményt akarok\"",
+        "\"Ez így működik\"",
+        "\"Megmutatom, hogy csináltam\"",
+        "\"Mondok pár konkrét példát\"",
+        "\"Mutasd, hogy oldottad meg, mert kipróbálnám”"
+      ],
+      "manager_motivation_phrases": [
+        "\"Mutasd meg, hogy oldottad meg\"",
+        "\"Számítok rád, hogy ez működni fog\"",
+        "\"Az eszközök nálad mindig a legjobb kezekben vannak\"",
+        "\"Ha te csinálod, biztos működni fog\"",
+        "\"Tudom, hogy azonnal cselekszel, ha valami nem stimmel\"",
+        "\"Te mindig találsz egy működő megoldást\""
+      ]
+    }
+  },
+  "VÁL": {
+    "factor_name": "Vállalkozói",
+    "Sziluett személyiségfaktor rövidítése:": "VÁL",
+    "Kategória ahová a faktor tartozik:": "Motiváció & problémamegoldás",
+    "factor_shortage": "VÁL",
+    "factor_description": "Ez a faktor megmutatja, hogy mennyire hozza Önt lázba az üzlet és a versenyhelyzet Az azzal járó kihívás, hogy a kockázatokat és a felelősséget vállalva - határozottságától függően akár másokat vezetve - nagyszerű dolgokba vághat bele, és viheti sikerre",
+    "LOW_Faktorértékek fő zónái:": "1-4",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-Óvatos és kockázatkerülő\r\n-Kevésbé versengő és célorientált\r\n-A kisebb felelősségi köröket preferálja\r\n-Stabilitást kereső\r\n-Problémamegoldásában üzleti szempontokat kevésbé érvényesít [pl. hogy mi mennyibe kerül a vállalatnak]",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-Kihívásokat kereső és ambiciózus\r\n-Erősen cél-és eredményorientált\r\n-Versengő természetű\r\n-Sikerorientált\r\n-Hajlandó kockázatot vállalni\r\n-Fontos neki, hogy nagy presztízzsel rendelkező vállalatnál dolgozzon, presztízsértékű tevékenységet végezhessen\r\n-Problémamegoldásában üzleti szempontok érvényesülnek [pl. hogy mi mikorra és hogyan térül meg]",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "low": {
+      "comfort_situations": [
+        "Ha kockázatmentes piaci környezetben dolgozhat [pl. monopol helyzetben lévő vállalatnál]",
+        "Alkalmazotti státuszban [pl. szakmai kulcsemberként vagy támogatóként] vállalhat munkát",
+        "Az egyéni döntésekkel járó felelősségvállalás minimális [pl. az erős és egyértelmű feladatszabályozás miatt]"
+      ],
+      "discomfort_situations": [
+        "Nagy felelősséget kell vállalnia [pl. egy nagyobb csapatot vezetőjeként]",
+        "KPI-okhoz kötve a feladatai, nyíltan versenyeznie kell önmagával vagy másokkal",
+        "Kockázatot kell vállalni [pl. pénzügyi vagy üzleti döntésekben]",
+        "Értékesítenie kell valamit"
+      ],
+      "typical_phrases": [
+        "\"Biztos ez a jó irány?\"",
+        "\"Mielőtt döntünk, nézzük át még egyszer.\"",
+        "\"Miért kell kockáztatnunk?\"",
+        "\"Maradjunk a bejáratott úton.\"",
+        "\"Hagyjuk a versengést, fókuszáljunk a saját feladatunkra.\"",
+        "\"Jobb, ha alaposan mérlegeljük, mielőtt döntünk.\"",
+        "\"Ez az eljárás a biztonságos.\"",
+        "\"Nem árt az óvatosság."
+      ],
+      "manager_motivation_phrases": []
+    },
+    "high": {
+      "comfort_situations": [
+        "Ha kihívásokkal teli munkakörnyezetben dolgozhat [pl. egy startupban]",
+        "Versenyezhet másokkal és önmagával",
+        "Vállalati és egyéni célkitűzések mentén dolgozhat",
+        "Felelősséget vállalhat a saját és akár mások munkájáért [pl. projektmenedzserként]",
+        "Ha a teljesítménye mérhető, összehasonlítható másokéval"
+      ],
+      "discomfort_situations": [
+        "Nincs egyértelmű és inspiráló cél, irány a munkájában [pl. stratégiákra épülő negyedéves, éves csoportos és egyéni, üzleti és projektcélok]",
+        "A munkakörnyezete nem értékeli az elért teljesítményt [pl. egy projekt teljesülését vagy konkrét üzleti eredményeket]",
+        "Nincsenek bónuszok, jutalmak, díjak, amiért küzdeni lehet",
+        "Alacsony presztízsű feladatokat kell végezni [pl. postára vinni leveleket, kávét főzni a főnöknek]",
+        "Gyenge minőségű, gagyi termékeket/szolgáltatásokat kell képviselnie",
+        "Nincs kivel nyíltan, KPI-okban versenyeznie [mert pl. egy állami vállalatnál dolgozik]",
+        "Nincs a munkahelyén semmilyen szakmai, akár vezetői előrementeli lehetőség"
+      ],
+      "typical_phrases": [
+        "\"Ez egy kihagyhatatlan lehetőség!\"",
+        "\"Előrébb kell lépnünk!\"",
+        "\"Rajtunk múlik, hogy sikerül-e.\"",
+        "\"Meg kell lépnünk!\"",
+        "\"Vállalom a felelősséget érte.\"",
+        "\"Ez az én ügyfelem, megoldom!\"",
+        "\"A csapatommal bármire képesek vagyunk!\"",
+        "\"Adjátok ide, megoldom!\"",
+        "\"Tegyünk bele mindent, hogy a legjobbak legyünk!\"",
+        "\"Ez az a lehetőség, amire vártunk, használjuk ki!\""
+      ],
+      "manager_motivation_phrases": [
+        "\"Ez egy nagy lehetőség, és neked megvan a tehetséged hozzá.\"",
+        "\"Ez egy nagyszerű kihívás lehet neked.\"",
+        "\"Rajtunk múlik, hogy az elsők legyünk!\"",
+        "\"Ebben te vagy a legjobb.\"",
+        "\"Ez most rajtad múlik, tedd oda magad, meg tudod csinálni.\"",
+        "\"Ez egy nagy lehetőség nekünk, nyomjuk meg ezt a negyedévet.\"",
+        "\"Lenyomjuk őket!\"",
+        "\"A miénk a legerősebb csapat, abban vagyunk a legjobbak, hogy...\""
+      ]
+    }
+  },
+  "KUT": {
+    "factor_name": "Kutatói",
+    "Sziluett személyiségfaktor rövidítése:": "KUT",
+    "Kategória ahová a faktor tartozik:": "Motiváció & problémamegoldás",
+    "factor_shortage": "KUT",
+    "factor_description": "Ez a faktor megmutatja, hogy mennyire szereti Ön a logikai, elméleti kihívásokat, mennyire szereti tanulmányozni, elemezni, feltárni a különböző dolgok és problémák hátterét, ok-okozati összefüggéseit. ",
+    "LOW_Faktorértékek fő zónái:": "1-4",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-Egyszerűsít\r\n-Lényegretörő megoldásokat keresi\r\n-Jobban érzi magát a konkrét és kézzelfogható feladatokban\r\n-Ritkábban elemzi a kapott információkat \r\n-Ekerüli a mélyreható kérdezést\r\n-Nem szívesen tölt időt aprólékos információk utánajárásával\r\n-Nem ragaszkodik a miértek megértéséhez\r\n-Kommunikációjában kevésbé tér ki az összefüggésekre\r\n-Problémamegoldásában a hétköznapi praktikumra koncentrál",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-Elmélyült és részletekbe menő\r\n-Információéhes\r\n-,,Miért\"-kereső, kérdező\r\n-Meg akarja érteni a világot maga körül\r\n-Kíváncsi a dolgok technikai hátterére, összefüggéseire, összetevőire\r\n-Szakértővé válásra törekszik\r\n-Élvezi az elméleti kihívásokat\r\n-Tudásmegosztó, kommunikációjában magyarázó\r\n-Problémamegoldásában tudásalapú, technológiai és tudományos megközelítést alkalmaz",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "low": {
+      "comfort_situations": [
+        "Amikor az információ előkészítettem, gyakorlatiasan és lényegretörően érkezik hozzá [pl. egy rövid e-mailben]",
+        "Ha nem kell mélyreható, összetett elemézéseket készítenie [pl.  csak az elemzések eredményével kell dolgoznia]",
+        "Nem kell mélységében utánajárnia egy technikai problémának [pl. az AI promptolásának a saját szakterületén], csak használnia kell a mások által összefoglalt tudnivalókat",
+        "Az olyan környezetet, ahol nem akarják az ősrobbanástól kezdve elmesélni neki a feladatokat, problémákat"
+      ],
+      "discomfort_situations": [
+        "Mélyreható elemzést igénylő feladatokkal kell dolgoznia",
+        "Bonyolult összefüggéseket kell végiggondolnia [pl. divíziókon átívelő hatékonyság-elemzést kell készíteni]",
+        "Elméleti kihívásokkal szembesül [pl. hatástanulmányokat, doktori disszertációkat kell tanulmányoznia]",
+        "Sok \"miért\"-kérdést kap a kollégáktól",
+        "Ha technológiai vagy jogi dokumentuációt kell feldolgoznia [pl. bonyolult pályázati anyagokat]",
+        "Tudományos hátterű, komplexitást, elmélyülést igénylő problémákat kell megoldania [pl. K+F feldatok]"
+      ],
+      "typical_phrases": [
+        "\"Elég ennyi információ.\"",
+        "\"Nem kell túlgondolni.\"",
+        "\"Miért kell ezt ennyire boncolgatni?\"",
+        "\"Majd kiderül, ha elrontottuk.\"",
+        "\"Ezt nem kell annyira részletezni.\"",
+        "\"Ebben semmi konkrét nincs.\"",
+        "\"Próbáluk meg leegyszerűsítseni.\""
+      ],
+      "manager_motivation_phrases": [
+        "\"Nem kell túlbonyolítani, csak csináld meg egyszerűen.\"",
+        "\"Az alapinformációk bőven elegek ehhez.\"",
+        "\"Csak a legfontosabb adatokat nézd át.\"",
+        "\"Jó megoldásokat várok, nem mély kutatást.\""
+      ]
+    },
+    "high": {
+      "comfort_situations": [
+        "A részletes és mély elmezést igénylő feladatokat",
+        "Ha más munkaterületek összefüggéseit is megértheti, tanulmányozhatja",
+        "Ha a főnökei és munkatársai bőségesen ellátják háttérinformációval",
+        "Új technológiák, szakmai anyagok, technikai leírások, tudásmegosztó videók tanulmányozását",
+        "Tartalmas, speciális szakmai konferenciákon vehet részt",
+        "Ha a környezete elismeri a szakértelmét, akár másokat oktathat",
+        "Ha a munkáltatója támogatja a folyamatos szakmai fejlődését"
+      ],
+      "discomfort_situations": [
+        "Felületes vagy hiányzó infókkal, adatokkal kell dolgozni [pl. a főnöke nem informálja részletekbe menően a feladatát érintő körülményekről]",
+        "Elnagyolt, ,,jó lesz így is\" megoldásokkal találkozik [pl. slendrián prezentáció, pontatlan elemzések, szakmailag igénytelen dokumentációk]",
+        "Nincs lehetősége kérdezni, utánajárni a technikai információknak, összefüggéseknek",
+        "Akadályozzák a szakmai fejlődésben [pl. nem nézhet szakmai youtube-videókat munkaidőben]",
+        "A környezete ad-hoc problémamegoldó [pl. stratégia és átgondolás nélküli markering]",
+        "Ha nincs ideje elemzésre, utánajárásra, a probléma alapos megértésére"
+      ],
+      "typical_phrases": [
+        "\"Miért van ez így?\"",
+        "\"Ezt jobban át kell gondolni.\"",
+        "\"Mélyebbre kell ásnunk.\"",
+        "\"Ennek biztos van valami oka.\"",
+        "\"Minden részlet számít.\"",
+        "\"Milyen források támasztják alá ezt az állítást?\"",
+        "\"Hogyan illeszthetjük ezt egy nagyobb összefüggésbe?\"",
+        "\"Miért?-Hogyan?\"",
+        "\"Elemezzük csak egy kicsit...\""
+      ],
+      "manager_motivation_phrases": [
+        "\"Rád mindig számíthatok, hogy minden részletet alaposan átgondolsz.\"",
+        "\"Szakmai alapokon nyugvó javaslataid mindig értékesek.\"",
+        "\"Részletes riportot szeretnék, és tudom, hogy ezt te tudod a legjobban elkészíteni.\"",
+        "\"Szánj időt az adatok alapos elemzésére.\"",
+        "\"Ez egy kiváló lehetőség, hogy mélyebbre áss a témában.\"",
+        "\"Nézz utána részletesen.\"",
+        "\"Nagyon komoly a tudásod a témában.\"",
+        "\"Elemezd ki nekem ezt kérlek ... szempontok szerint.\"",
+        "\"Te mindig mélyen átlátod az összefüggéseket, ezt most is remekül kamatoztathatod.\""
+      ]
+    }
+  },
+  "REN": {
+    "factor_name": "Rendszerező",
+    "Sziluett személyiségfaktor rövidítése:": "REN",
+    "Kategória ahová a faktor tartozik:": "Motiváció & problémamegoldás",
+    "factor_shortage": "REN",
+    "factor_description": "Ez a faktor megmutatja,hogy Ön mennyire szeret adatokat elrendezni, adminisztratív struktúrákat, rendszereket fenntartani, dokumentációkat készíteni és kezelni, szabályozott folyamatok szerint dolgozni. ",
+    "LOW_Faktorértékek fő zónái:": "1-4",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-Szeret adminisztratív eszközök, keretek nélkül dolgozni\r\n-Kerüli, halogatja az adatok elrendezését igénylő feladatokat\r\n-Következetlenebb a feladatok menetrendekbe rendezésében\r\n-Kedveli a kevésbé szabályozott környezetet\r\n-Kevésbé törekszik a precizitásra",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-Precíz és szervezett\r\n-Folyamat-centrikus-proaktív rendrakó\r\n-Törekszik a tiszta és átlátható struktúrákra\r\n-Kedveli a szabályozott folyamatok szerinti működést\r\n-Szívesen foglalkozik adminisztratív feladatokkal\r\n-Figyelmet fordít a feladatdokumentációra",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "low": {
+      "comfort_situations": [
+        "A minimális adminisztrációs terheléssel járó feladatokat [pl. workshopok, tréningek, rendezvényszervezés]",
+        "Ha a tevénységei eredményét nem kell adminisztrálnia [pl. egy CRM rendszerben vagy heti riportokban]",
+        "A kevésbé formális munkavégzési környezetet [pl. önállóan alakított, rugalmas munkaidő]",
+        "Ha improvizálhat a napi feladatmenedzsmentjében [mert pl. nem kell szigorú naptárat vezetnie]",
+        "Ha kevesebb és egyszerű szoftverekkel dolgozhat"
+      ],
+      "discomfort_situations": [
+        "Monoton adminisztratív feladatokat kell végeznie [pl. adatrögzítés]",
+        "Részletes, pontos előírásokat, checklistákat kell követnie [pl. leltárak ellenőrése]",
+        "Az összetett, többlépcsős rendszerezést igénylő feladatok  [pl. dokumentációk katalogizálása és digitalizálása]",
+        "Ha szigorúan szabályozott folyamatok hatékony üzemeltetését, ellenőrzését kell ellátnia [pl. ISO minősítések szerinti folyamatok]",
+        "Állandó rendet kell tartania maga körül [pl. clean desk policy] vagy a számítógépe fájlstruktúrájában",
+        "Egy projekt részletes ütemtervet kell kidolgoznia",
+        "Sokat kell jegyzetelnie vagy memót, feljegyzéseket, összefoglalókat kell készítenie",
+        "Ha az adatokat amivel dolgozik, nem neki kell előkészítenie, elrendeznie [pl. e-mailekből összegyűjteni és excelbe rendezni információkat]"
+      ],
+      "typical_phrases": [
+        "\"Ne adminisztáráljuk túl.\"",
+        "\"Ez így is jó lesz.\"",
+        "\"Nem kell ennyire precíznek lenni.\"",
+        "\"Majd később rendet rakok.\"",
+        "\"Ez hol is van?\"",
+        "\"Tudom, hogy itt van valahol.\"",
+        "\"Nem muszáj minden lépést papírra vetni.\""
+      ],
+      "manager_motivation_phrases": [
+        "\"Ne aggódj, nem kell mindent leírnod.\"",
+        "\"Nem baj, ha nem írod be a naptárba.\"",
+        "\"Haladj, majd később dokumentálod.\"",
+        "\"Nincs szükség felesleges adminisztrációra.\"",
+        "\"Nem kell mindent azonnal rendbe rakni.\""
+      ]
+    },
+    "high": {
+      "comfort_situations": [
+        "A tiszta feladat és felelősségi köröket [pl. az egymásra utalt munkakörökre vonatkozóan: pl. sales és sales back office]",
+        "Ha a folyamatok lépésről-lépésre, precízen vannak szabályozva [pl. egy ügyfélpanasz kezelése esetén]",
+        "A rendezett munkakörnyezetben való munkavégzést [pl. egyértelműen katalogizált vállalati dokumentumok az irodahelyiségben]",
+        "A dokumentációkészítést, a különféle adminisztratív feladatokat",
+        "Ha stabil és kiszámítható rendszerekkel dolgozhat [pl. hatékony, felhasználóbarát szoftverek]",
+        "Ha ő felel a saját maga strukturáinak, rendszereinek fenntartásáért, amiben dolozik [pl. fájlstruktúra, archív jegyzetek stb.]",
+        "Ha világos stratégia jelöli ki a munkájának a kereteit"
+      ],
+      "discomfort_situations": [
+        "Rendezetlenség, káosz uralkodik körülötte [pl. exceltáblák tengere hatékony vállalatirányítási szoftver helyett]",
+        "A feladatait a szokásjog és adhoc egyedi eljárások szerint kell végeznie [pl. sztenderdizálatlan projektirányítás]",
+        "Mindenre és mindenkire egyedi szabályok vonatkoznak",
+        "Az információk átláthatatlanul állnak a rendelkezésre [pl. dokumentációk és összefoglalók helyett szétszórt e-mailekben]",
+        "A feladatok, projektek kivitelezésének nincsenek leírásai, menetrendjei, checklistái]",
+        "Ha gyakran kell imporvizálnia a feladatmegoldásban"
+      ],
+      "typical_phrases": [
+        "\"Rend a lelke mindennek.\"",
+        "\"Ez így rendszerezett és átlátható.\"",
+        "\"Mindennek megvan a pontos helye.\"",
+        "\"A rendszer így működik a legjobban.\"",
+        "\"Már előkészítettem a szükséges adatokat.\"",
+        "\"Szeretném, ha precízen dokumentálnánk ezt.\"",
+        "\"Sora van mindennek.\""
+      ],
+      "manager_motivation_phrases": [
+        "\"Tisztázott és átlátható, remek!\"",
+        "\"Precíz munka, mint mindig.\"",
+        "\"Nálad minden a helyén van.\"",
+        "\"A rendszereid nagyon hatékonyak.\"",
+        "\"Nagyszerűen dokumentáltad.\"",
+        "\"Igazán alapos és jól felépített ütemterv.\"",
+        "\"A te struktúridban bárki eligazodik.\"",
+        "\"Tetszik, ahogy jegyzetelsz.\"",
+        "\"Szeretem, hogy nálad mindig rend van.\""
+      ]
+    }
+  },
+  "SZOC": {
+    "factor_name": "Szociális",
+    "Sziluett személyiségfaktor rövidítése:": "SZOC",
+    "Kategória ahová a faktor tartozik:": "Motiváció & problémamegoldás",
+    "factor_shortage": "SZOC",
+    "factor_description": "Ez a faktor megmutatja, hogy Önt mennyire foglalkoztatják az emberi történetek és kapcsolatok, mások támogatása, illetve a közvetlen és a tágabb környezetünkről való gondoskodás.",
+    "LOW_Faktorértékek fő zónái:": "1-4",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-Feladokra koncentrál az emberi ügyek, kapcsolatok helyett\r\n-Emberi kérdésekben formális, távolságtartó, közömbös\r\n-Kevésbé érdeklik mások érzései és sztorijai\r\n-A világ más dolgai, mintsem az emberek",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-Emberközpontúbb\r\n-Érdekli mások élethelyzete\r\n-Erős az igazságérzete\r\n-Gondoskodóbb, odafigyelőbb másokkal\r\n-Érzékenyebb a külcsönös segítségnyújtásra, támogatásra\r\n-Nyitott az emberi ügyekre, témákra",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "low": {
+      "comfort_situations": [
+        "A tisztán szakmai interakciót igénylő helyzeteket [pl. egy technikai feladatmegbeszélést]",
+        "A tiszta, célorientált feladatvégzést",
+        "A feladatalapú együttműködést [pl. projektegyeztetés]",
+        "A formális kommunikációs helyzeteket [pl. kávézás helyett 1on1 megbeszélés]",
+        "Az egyszerű, átlátható, gyors és racionális, felnőtt konfliktuskezelést",
+        "A minimális csapatdinamikai változásokat [pl. mert alacsony a fluktuáció és nem kell mindig az újakat támogatni]"
+      ],
+      "discomfort_situations": [
+        "A személyes sztorikkal terhelt, pletykára hajlamos munkakörnyezetet",
+        "A munkahelyi klikkesedést",
+        "Ha a környezetében megállás nélkül csevegnek, és nem tud a feladatára koncentrálnia",
+        "Ha másokat kell mentorálnia [pl. új kollégák felvételekor]",
+        "A formális csapatépítő tréningeken való részvételt",
+        "A konfliktusos helyzetek emberi-érzelmi esetmegbeszéléseit",
+        "Nem szakmai közösségi eseményeken kell résztvennie [pl. osztálytalálkozó]"
+      ],
+      "typical_phrases": [
+        "\"Ez egy munkahely.\"",
+        "\"Tiszta óvoda.\"",
+        "\"Ez a munkád része.\"",
+        "\"Lássunk neki a feladatnak.\"",
+        "\"Ez szakmai kérdés, nem érzelmi.\"",
+        "\"Nem érdekel a hiszti, haladjunk.",
+        "\"Ez a te ügyed.\"",
+        "\"Ez csak munka.\"",
+        "\"Figyeljünk inkább a munkára.\"",
+        "\"Mi vagyok én, pszichológus?\""
+      ],
+      "manager_motivation_phrases": [
+        "\"Koncentráljunk a feladatra.\"",
+        "\"Térjünk vissza a konkrét feladatokhoz.\"",
+        "\"Ez csak munka, nem kell túlgondolni.\"",
+        "\"Hagyjuk a sztorizást, és térjünk át a teendőkre.\""
+      ]
+    },
+    "high": {
+      "comfort_situations": [
+        "A mélyebb, érzelmileg támogató munkahelyi kapcsolatokat",
+        "Ha másokat támogathat a mindennapi munkájában [pl. mentorálás]",
+        "Harmónikus, összetartó, emberileg figyelmes csapattal dolgozni [pl. születésnapok, gyermekszületések megünneplése, előzékeny helyettesítések betegség esetén]",
+        "Az emberi sztorikról való beszélgetést, a történések megosztását",
+        "A közösségi tevékenységeket [pl. vállalati családi nap]",
+        "A CSR és önkéntes eseményeket [pl. környezetvédelmi akciók]"
+      ],
+      "discomfort_situations": [
+        "Ha érzelemmentes, közömbös, rideg légkörben kell dolgoznia",
+        "Teljesen egyedül, izoláltan kell dolgoznia [pl. egy vidéki egyszemélyes telephelyen, ahová nem jönnek munkatársak vagy ügyfelek]",
+        "Ha minimális az emberi interakció a kollégákkal [pl. nemzetközi, remote munkakörnyezet]",
+        "Ha a munkahelyén ellenlábasai vannak, akik nyíltan kifejezik nemtetszésüket vele kapcsolatban",
+        "Ha úgy érzi, valamiért őt hibáztatják",
+        "Igazságtalan döntések születnek vele vagy másokkal szemben [pl. elbocsátják a nyugdíj előtt álló kollégát]",
+        "Elbagatelizálnak egy emberileg konfliktusos helyzetet",
+        "A vezetője nem figyel az emberi igényeire [pl. ha nem maradhat otthon, ha beteg]"
+      ],
+      "typical_phrases": [
+        "\"Hogy érzed magad?\"",
+        "\"Segíthetek valamiben?\"",
+        "\"Kérlek, figyeljünk egymásra.\"",
+        "\"Fontos számomra, hogy megértsük egymást.\"",
+        "\"Beszéljük meg együtt.\"",
+        "\"Mi történt?\"",
+        "\"Mesélj, mi történt veled!\"",
+        "\"Ez így nem igazságos.\""
+      ],
+      "manager_motivation_phrases": [
+        "\"Fontos, hogy jól érezd magad ebben a projektben.\"",
+        "\"Kérlek, hogy...\"",
+        "\"A csapat nagyon hálás neked ezért.\"",
+        "\"Köszönöm, hogy figyelsz a többiekre.\"",
+        "\"Hogyan segíthetnénk együtt?\"",
+        "\"Te vagy a csapat lelke.\"",
+        "\"Ez így igazságos.\"",
+        "\"Miben segíthetek, van valamilyen nehézséged?\"",
+        "Képzeld, van egy jó sztorim...\""
+      ]
+    }
+  },
+  "MŰV": {
+    "factor_name": "Művészi",
+    "Sziluett személyiségfaktor rövidítése:": "MŰV",
+    "Kategória ahová a faktor tartozik:": "Motiváció & problémamegoldás",
+    "factor_description": "Ez a faktor megmutatja, hogy Ön mennyire szereti használni a képzelőerejét, az esztétikai érzékét, mennyire hozza lázba az újdonság varázsa, a spontán ötletelés és az intuitív improvizáció. ",
+    "LOW_Faktorértékek fő zónái:": "1-4",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-Praktikus és funkcionális szemléletű\r\n-Örül a megszokott, bevált dolgoknak\r\n-Kevésbé vonzzák az esztétikai szempontok\r\n-Idegesítik a képzelőerőt igénylő feladatok",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-Vonzódik az újdonságokhoz\r\n-Szereti a változatosságot, sokszínűséget\r\n-Szereti használni a képzelőerejét\r\n-Kedveli a spontán helyzeteket\r\n-Improvizatív\r\n-Nyitott az új irányokra és szokatlan megoldásokra",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán",
+    "factor_shortage": "MŰV",
+    "low": {
+      "comfort_situations": [
+        "Rituálészerű, funkcionális meetingeket [pl. daily stand up]",
+        "A konkrét folyamatok szerinti munkavégzést [pl. pénzügyi területen]",
+        "Az ismétlődő, akár rutin tevékenységeket",
+        "A kész sablonok, útmutatók, bevált megoldások alkalmazását [pl. feladat checklisták]"
+      ],
+      "discomfort_situations": [
+        "Nincs konkrét, előre meghatározott keretek, leírások, folyamatok [pl. egy startupban]",
+        "Gyakran kell a képzelőerejére támaszkodnia [pl. óvodai csoport foglalkoztatásában]",
+        "Túl változatos, kiszámíthatlan a munkakörnyezet [pl. sorozatos szervezeti átszervezések]",
+        "Az ötletelés öncélú, és a brainstormingokat nem követi megvalósítás",
+        "A semmiből kell kitalálni valamit [pl. social marketing kreatív szövegírással bízzák meg]",
+        "Improvizálnia kell [mert pl. egy meetingen kifogyott az ötletekből]"
+      ],
+      "typical_phrases": [
+        "\"Sztenderdizáljuk.\"",
+        "\"Ez így nagyszerűen működik.\"",
+        "\"Ez bevált.\"",
+        "\"Ne változtassunk rajta.\"",
+        "\"A meglévő folyamatunk jó.\"",
+        "\"Ne pazaroljunk időt az újdonságokra.\"",
+        "\"Maradjunk a bevált módszereknél.\"",
+        "\"Nem kell feltalálni a spanyol viaszt.\"",
+        "\"Az esztétika most nem prioritás.\"",
+        "\"Nem kell csillogónak lennie.\""
+      ],
+      "manager_motivation_phrases": [
+        "\"Nem kell újra feltalánod, így is működni fog.\"",
+        "\"Használd nyugodtan a sablonjainkat.\"",
+        "\"Ez egy jól bevált módszer, haladj ezzel.\"",
+        "\"A fő, hogy működik.\""
+      ]
+    },
+    "high": {
+      "comfort_situations": [
+        "Ha a munkájában új dolgokat kell kitalálnia [pl. egy marketing csapat tagjaként]",
+        "Kreatív képzelőerőt, esztétikai érzéket igénylő feladatokat [pl. egyedi rendezvények tervezése vagy dekorációk kitalálása]",
+        "Ha nagy a változatosság a munkakörében [pl. egyedi sportruházatot gyárt a cég, ahol dolgozik]",
+        "Ha innovatív megoldásokat kell keresni különféle technikai problémákra",
+        "Improvizáviós helyzeteket [pl. előadóművészet, tréningezés]"
+      ],
+      "discomfort_situations": [
+        "Monoton vagy rutin feladatokkal kell végeznie [pl. gyártósoron dolgozni, számlákat ellenőrizni]",
+        "Szigorú, merev szabályok szerint kell dolgozni [pl. egy hivatal adóügyi osztályán]",
+        "Nincs lehetősége új ötletek és eljárások kipróbálására, bevezetésére [mert pl. a főnöke tiltja]",
+        "Esztétikai érzéket és képzelőerőt nem igénylő feladatokat kap [pl. nagy mennyiségű adatrögzítés]",
+        "Ha csak funkcionális hasznosságot várnak el a megoldásaiban [pl. karbantartói feladatok]"
+      ],
+      "typical_phrases": [
+        "\"Legyünk kreatívak.\"",
+        "\"Fő a vátozatosság.\"",
+        "\"Találjunk ki valami újat!\"",
+        "\"Tegyük ezt látványossá!\"",
+        "\"Milyen új megközelítést alkalmazhatnánk?\"",
+        "\"Ez fantasztikusan néz ki!\"",
+        "\"Ezzel igazán egyedi dolgot hozhatunk létre.\"",
+        "\"Alakítsuk át!\"",
+        "\"Újítsuk meg!\"",
+        "\"Fontos, hogy szép legyen.\""
+      ],
+      "manager_motivation_phrases": [
+        "\"Ez egy nagyszerű ötlet!\"",
+        "\"Engedd el, ami most van, gondolkodj szabadon!\"",
+        "\"Engedd szabadjára a képzelőerődet!\"",
+        "\"Hogy tehetnénk ezt igazán látványossá?\"",
+        "\"Számítok az esztétikai érzékedre.\"",
+        "\"Alakítsd át, találj ki valami újat!\""
+      ]
+    }
+  },
+  "TEM": {
+    "factor_name": "Tempó",
+    "Sziluett személyiségfaktor rövidítése:": "TEM",
+    "Kategória ahová a faktor tartozik:": "Viselkedés",
+    "factor_shortage": "TEM",
+    "factor_description": "Ez a faktor a belső ritmusunkat illetve a figyelemmegosztási igényeinket méri. A nyugodtabb, megfontoltabb karakterek igyekeznek kellő időt szánni teendőikre, lehetőleg egyszerre kevés feladatra koncentrálnak. A dinamikusabb, pörgősebb egyének gyakran több feladatot végeznek egyszerre, és nem okoz számukra gondot a feladatok közötti váltogatás.",
+    "LOW_Faktorértékek fő zónái:": "1-4",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-nyugodt, megfontolt,\r\n-frusztrálja a sürgetettség,\r\n-rászánja az időt a tevékenységeire,\r\n-törekszik lépésről-lépésre haladni,\r\n-egyszerre kevesebb feladattal foglalkozni.",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-gyors, türelmetlen,\r\n-frusztrálja a lassúság, a szöszmötölés\r\n-szűkre szabja az időt a tevékenységeire,\r\n-törekszik dinamikusan, tempósan haladni,\r\n-egyszerre sok feladattal foglalkozni.",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "low": {
+      "comfort_situations": [
+        "a nyugodt fókuszálást, elmélyülést igénylő tevékenységeket [pl.: pénzügyi elemző a negyedéves jelentést készíti el, lépésről lépésre haladva]",
+        "ha bőven van ideje a feladatai előkészületeire és végrehajtására,",
+        "ha egyidőben csak 1-2 feladatra kell koncentrálnia",
+        "ha nyugodt környezetben dolgozhat. [pl.: home office, saját iroda]"
+      ],
+      "discomfort_situations": [
+        "gyakran megszakítják a tevékenységei közben [pl.: háromszor fel kell venni a telefont, miközben adminisztrál, egy telefonálás során 3-4 ember belecsörög]",
+        "nagy és zajos open officeban kell dolgozni",
+        "kapkodnia kell egy feladat végrehajtásával [pl.: Az ügyfélszolgálatos munkatárstól elvárják, hogy perceken belül válaszoljon az ügyfélpanaszokra, miközben több csatornán [telefon, email, chat] párhuzamosan érkeznek megkeresések.]",
+        "azonnali cselekvéseket igénylő, havária helyzetbe kerül [pl.: a gyári dolgozónak a napi termelési sebességét 20%-kal növelni kell a hirtelen megnövekedett rendelési igények miatt]",
+        "sok apró feladatot kell rövid idő alatt végrehajtani [pl. 6-8 feladat 10 perc alatt],",
+        "állandó pörgést igénylő időszakok [órák, napok] után nincs lehetősége néhány órát pihenni vagy elmélyülni valamiben."
+      ],
+      "development_opportunities": [
+        "A rutinszerű feladatainak tudatosan dinamikusabb végrehajtása.",
+        "Nem munkával töltött, köztes tevékenységek [pl. kavézás, dohányzás, hírolvasás, social media] időtartamának önreflexív elemzése és csökkentése.",
+        "Napi +1 feladat végrehajtása ahhoz képest, amit aznapra eltervezett."
+      ],
+      "typical_phrases": [],
+      "manager_motivation_phrases": []
+    },
+    "high": {
+      "comfort_situations": [
+        "a dinamizmust és gyors előrelépést igénylő tevékenységeket,",
+        "a rövidebb, párhuzamosan végrehajtható feladatokat,",
+        "ha egyszerre több, akár 6-8 feladatra kell koncentrálnia.",
+        "ha pörgős környezetben dolgozhat [pl.: eseménykoordinátor zenei fesztiválon, sales-es látogasson le több partnert egy nap alatt]",
+        "gyors döntéshozatal egy értekezleten [pl.: melyik beszállítóval dolgozzunk]"
+      ],
+      "discomfort_situations": [
+        "egyetlen tevékenységre kell hosszan [pl. 1 órán át] és elmélyülten fókuszálnia [pl.: egy hosszú prezentáció meghallgatása, videós tréninganyag megtekintése]",
+        "bármi miatt nem tud haladni egy feladat végrehajtásával [pl.: IT rendszerhiba, hiányzó információ, túlzott bürökrácia]",
+        "ha olyan helyzetbe kerül, amikor feltartják vagy hátráltatják [elhúzódó meeting, dugóban kell várakozni, mosdóra várni kell mert takarítják]",
+        "egyszerre sok olyan feladatot kap, amelyek időigényesek [pl.: hosszú jogi dokumentáció tanulmányozása]",
+        "ha napokon keresztül lassan zajlanak a folyamatok körülötte. [pl.: napokig kell várnia a felsővezetés jóváhagyására egy tervvel kapcsolatban, ami nélkül nem tud továbblépni]."
+      ],
+      "development_opportunities": [
+        "Aktívabb figyelem az emberekkel való kommunikciós helyzeteiben.",
+        "Egyszerre maximum 3 feladat végrehajtása egy-időben.",
+        "Feladat és információlisták, naptár vezetése az információk, határidők elfelejtése ellen."
+      ],
+      "typical_phrases": [],
+      "manager_motivation_phrases": []
+    }
+  },
+  "HAT": {
+    "factor_name": "Határozottság",
+    "Sziluett személyiségfaktor rövidítése:": "HAT",
+    "Kategória ahová a faktor tartozik:": "Viselkedés",
+    "factor_shortage": "HAT",
+    "factor_description": "Ez a faktor megmutatja, mennyire bízunk bátran saját adottságainkban, képességeinkben. A bizonytalanabb karakterek kevésbé mernek dönteni, megszólalni, cselekedni a különféle helyzetekben, gyakran mozdulnak el a könnyebb ellenállás felé, inkább követve másokat. A magabiztosabb személyiségek a legkülönfélébb helyzetekben képesek felvállalni véleményüket, és meggyőződésük szerint cselekedni, markánsabb, irányító hatást gyakorolva a környezetükre. ",
+    "LOW_Faktorértékek fő zónái:": "1-4",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-visszafogott a döntéshozatalban\r\n-kerüli a konfrontációt\r\n- nem szívesen nyilvánítja ki a véleményét\r\n-követő szerepet vesz fel\r\n-gyakran külső nyomás hatására cselekszik\r\n-bizonytalan önmagában \r\n-a kockázatmentes megoldásokat választja\r\n-bátorítás-igényes karakter ",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-gyors és határozott a döntéshozatalban\r\n-magabiztos \r\n-szívesen megosztja álláspontját, képes kiállni a saját véleménye mellett\r\n-nem riad vissza a konfrontációtól, képes képviselni saját és a csapat érdekeit\r\n-bízik a saját képességeiben\r\n-képes hatást gyakorolni a környezetésre\r\n-jól boldogul feszült helyzetekben, higgadt tud maradni\r\n",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "low": {
+      "comfort_situations": [
+        "az olyan helyzeteket, ahol másokkal közösen osztoznak a felelősségen",
+        "az ismert, kiszámítható, kockázatmentes feladatokat végezhet [back office jellegű munkakörökben dolgozhat]",
+        "a türelmes, konfliktusmentes környezetet, ahol nyitottan kérdezik az ő véleményét [pl.: coach típusú vezető mellett]",
+        "Mások által vezetett projektekhez kell hozzájárulnia, háttértámogatással"
+      ],
+      "discomfort_situations": [
+        "azonnali döntést kell hozni [pl.: bróker munkakör]",
+        "neki kell másokat meggyőzni [pl.: értékesítés]",
+        "konfrontálódnia kell [pl.: belső audit, mások ellenőrzése]",
+        "iránymutatás, konkrét információ nélkül kell dolgozni",
+        "kezdeményeznie kell: egy új projekt ötletét kellene kidolgoznia és bemutatnia a vezetőség előtt",
+        "egy munkahelyi vita során neki kellene közvetítenie a felek között"
+      ],
+      "development_opportunities": [
+        "kisebb, alacsonyabb kockázatú döntéseket felvállalni, pl. választás 2 opció közül",
+        "prezentáció gyakorlása, kisebb, bizalmi csapat előtt",
+        "felelősségi körének fokozatos növelése az ő általa választottakkal",
+        "visszajelzés kérése tudatosan",
+        "szólaljon fel elsőként egy megbeszélésen",
+        "kisebb kockázatú és horderejű projekt menedzselésének elvállalása"
+      ],
+      "typical_phrases": [
+        "\"nem vagyok biztos benne\"",
+        "\"kérdezzünk meg valakit\"",
+        "\"rád bízom\"",
+        "\"lehet, hogy rosszul gondolom...\"",
+        "\"talán ez jó lehet\"",
+        "\"mit gondoltok?\"",
+        "\"nekem ez megfelel\""
+      ],
+      "manager_motivation_phrases": [
+        "\"bízhatsz bennünk, segítünk\"",
+        "\"haladjunk óvatosan\"",
+        "\"együtt dolgozunk rajta, nem vagy egyedül\"",
+        "\"mondd el az ötleteidet, bármilyen javaslat jó kiindulás\"",
+        "\"ez egy jó ötlet, érdemes kipróbálni\"",
+        "\"ha kérdésed van, bármikor fordulhatsz hozzám\"",
+        "\"kiváló kezdőpont, innen csak finomítani kell\"",
+        "\"melyik részletet szeretnéd először átbeszélni?\"",
+        "\"hogyan látod ezt a lehetőséget?\""
+      ]
+    },
+    "high": {
+      "comfort_situations": [
+        "ha saját maga hozhat döntéseket, irányíthatja a folyamatot [pl.: projekt vezetése közben]",
+        "ha véleményt formálhat, érvelhet álláspontja mellett",
+        "az egyenes és őszinte kommunikációt igénylő helyzeteket [pl.: munkatársi tájékoztató]",
+        "a konstruktív vitában való részvételt [pl.: értékesítői ártárgyalás]",
+        "ha a környezetében lévő emberek is döntésképesek [ne legyenek körülötte nyuszik] pl.: menedzsment csapatban"
+      ],
+      "discomfort_situations": [
+        "mikromenedzselik",
+        "folyamatosan mások döntéseit kell követni, nincs beleszólása [pl: hivatali közeg]",
+        "alacsony határozottságú emberekkel való együttműködés, ha bizonytalankodik a környezete",
+        "nem mondhatja el a véleményét [pl.: elnyomó vezető mellett, tiszta coaching szituáció]"
+      ],
+      "development_opportunities": [
+        "mások véleményének aktív meghallgatása, végiggondolása",
+        "saját döntéseinek értékelése, azok rövid és hosszú távú, valamint másokra gyakorolt hatásainak elemzése",
+        "alacsonyabb határozottságú kolléga mentorálása"
+      ],
+      "typical_phrases": [
+        "\"ez az én álláspontom\"",
+        "\"menjünk tovább\"",
+        "\"ez egyértelmű\"",
+        "\"szerintem...\"",
+        "\"megcsináljuk\"",
+        "\"próbáljuk meg ezt...\"",
+        "\"azt javaslom, hogy\""
+      ],
+      "manager_motivation_phrases": [
+        "\"ez a te döntésed, csináld úgy, ahogy jónak látod\"",
+        "\"tökéletesen illik hozzád ez a projekt...\"",
+        "\"te vagy az, aki a csapatot a legjobban előre tudja mozdítani\"",
+        "\"ez egy kihívás, de tudom, hogy ezt is meg tudod oldani\"",
+        "milyen lépéseket tennél, hogy előrébb jussunk?",
+        "\"mire van szükséged, hogy elérd a célod?\""
+      ]
+    }
+  },
+  "RUG": {
+    "factor_name": "Rugalmasság",
+    "Sziluett személyiségfaktor rövidítése:": "RUG",
+    "Kategória ahová a faktor tartozik:": "Viselkedés ",
+    "factor_description": "Ez a faktor a változó körülményekhez való alkalmazkodóképességünket méri. A fix kereteket preferáló személyiségek rendszerint próbálnak kitartani eredeti elképzelésik és terveik mellett. Feladatvezérlésük feszesebb, fegyelmezettebb, szeretik elkerülni a beeső feladatokat. Az adaptívabb karaktereket nem zavarják a gyors és sorozatos változások, feladatvezérlésük helyzetfüggőbb, és hatékonyabban alkalmazkodnak környezetükhöz.",
+    "LOW_Faktorértékek fő zónái:": "1-4",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-ragaszkodik a megszokott keretekhez\r\n-előre láthatóságot igényel\r\n-stresszel a gyakori változtatások miatt\r\n-megakasztják a változtatások\r\n-következetes\r\n-kihívást jelent a spontaneitás\r\n-szereti megtervezni a menetrendet és tartja is magát hozzá",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-könnyen alkalmazkodik a változásokhoz\r\n-jól reagál a váratlan helyzetekre\r\n-megbeszélteket csak irányként veszi\r\n-nem szereti a megkötöttségeket\r\n-hatékony helyzetfüggő vezérlés jellemzi\r\n-nem fél a változásoktól\r\n-többféle lehetőséget tart szem előtt a megoldásra",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "factor_shortage": "RUG",
+    "low": {
+      "comfort_situations": [
+        "előre meghatározott keretekben való munkavégzés [pl.: előre ütemezett meetingek]",
+        "stabil és kiszámítható környezet [fix munkarend, munkaidő]",
+        "pontos, egyértelmű iránymutatás szerint dolgozni [pl.: folyamatleírás alapján, előre elkészített sablonban]",
+        "átlátható felelősségi körök [projektvezető előre elmondja ki miért felel, mi a feladat, RACI-mátrix alapján]",
+        "meglévő, ismert, jól bevált megoldások, módszerek alkalmazása",
+        "ha a feladatok logikusan követik egymást, és nincsenek bonyolult változtatások",
+        "ha minden terv előre elkészül és aszerint haladhat [pl.: szoftverfejlesztési projekt ütemezése - Gantt-diagram]"
+      ],
+      "discomfort_situations": [
+        "a korábban megbeszélt terveket hirtelen megváltoztatják [pl.: rövidebb lesz a határidő]",
+        "gyors döntéseket kell hozni, és nincs lehetőség alaposan megtervezni a lépéseket",
+        "rögtönöznie kell anélkül, hogy konkrét terv lenne a kezében [pl.: helyettesíteni kell egy kollégát egy megbeszélésén]",
+        "egy munkafolyamat során folyamatosan új információk jelennek meg, amelyek átrendezik a prioritásokat",
+        "szabályok és keretek nélkül kell dolgozni [pl.: startup környezetben való munka]"
+      ],
+      "development_opportunities": [
+        "olyan feladatok vállalása, ahol kis léptékű változtatásokhoz kell alkalmazkodnia [pl. kisebb irányváltások tesztelése, új munkamódszer kipróbálása]",
+        "szándékos részvétel ad hoc jellegű feladatokban vagy döntésekben",
+        "idézzen fel olyan múltbéli sikereket, ahol a gyors és nem tervezett változtatáson múlt a siker",
+        "befektetett energia/hatás átgondolása az eredeti menetrendtől eltérés esetén"
+      ],
+      "typical_phrases": [
+        "\"tervezzük meg\"",
+        "\"tartsuk be a határidőt\"",
+        "\"legyünk következetesek\"",
+        "\"tartsuk magunkat az eredeti tervekhez\"",
+        "\"ez így volt megbeszélve\"",
+        "\"haladjunk sorban\"",
+        "\"ne változtassunk\""
+      ],
+      "manager_motivation_phrases": [
+        "\"maradjunk a tervnél, úgy, ahogy javasoltad\"",
+        "\"te mindig biztosítod, hogy ne csússzunk ki a keretekből\"",
+        "\"ez így van jól, ne változtassunk\"",
+        "\"nagyon megbízhatóan csinálod\"",
+        "\"szeretem a következetességed\""
+      ]
+    },
+    "high": {
+      "comfort_situations": [
+        "ha folyamatosan új helyzetekkel kell szembenéznie, és ezekre rugalmasan reagálhat",
+        "ha maga dönthet a módszerekről és az eszközökről, amit használ [pl.: projektmenedzser eldöntheti, hogy Trellot, Asanat, Excelt vagy egyéb felületet használ]",
+        "rugalmas határidők [pl.:véghatáridő kerül megadásra csak]",
+        "nincsenek szigorú szabályok, amelyek korlátozzák a mozgásterét [pl.: nincs ISO minősítés]",
+        "Menet közben is váltogathatja a megoldási alternatívákat [pl.:  ]",
+        "kötetlen munkarendet, ahol maga döntheti el, mikor és hogyan végzi el a feladatait",
+        "krízishelyzet megoldás [pl.: utolsó pillanatban kell módosítani az ajánlatot]"
+      ],
+      "discomfort_situations": [
+        "szabályozott, szigorú keretek között kell dolgoznia [hivatal]",
+        "pontos menetrendet kell követnie anélkül, hogy alkalmazkodhatna a változó körülményekhez [pl.: onboarding terv, interjú guide követése eltérési lehetőség nélkül]",
+        "kötött munkarendben kell dolgozni",
+        "nincs mozgástér a feladatok időzítésében [pl.: építkezésen dolgozó mérnöknek a határidő szerint meghatározott időpontban kell jelentést készítenie a haladásról, akkor is, ha a munka közben előre nem látott problémák lassították a folyamatot]",
+        "egy problémára kizárólag egy előírt megoldást lehet alkalmaznia [pl.: ügyfélpanasz kezelése szigorú protokoll alapján]"
+      ],
+      "development_opportunities": [
+        "projekthez ütemterv kialakítása, a lépésekhez határidők rendelése és azok nyomon követése",
+        "feladatlista és naptár használata, napi/heti feladattervek tartása",
+        "mindset és tudatosság: a keretek, szabályok és menetrendek előnyeinek megfontolása"
+      ],
+      "typical_phrases": [
+        "\"legyünk rugalmasak\"",
+        "\"majd a helyzethez igazítjuk\"",
+        "\"ne tervezzük túl, úgy is változik\"",
+        "\"ez csak egy irány, nem kell kőbe vésni\"",
+        "\"legyünk nyitottak a változásokra\"",
+        "\"többféleképpen is meg lehet oldani\"",
+        "\"agilisan közelítsük meg a problémát\""
+      ],
+      "manager_motivation_phrases": [
+        "\"te mindig gyorsan alkalmazkodsz\"",
+        "\"szeretem, hogy mindig nyitott vagy az újra\"",
+        "\"ez egy rugalmas megoldás, pont rád van szabva\"",
+        "\"bármi történik, te mindig feltalálod magad\"",
+        "\"szerinted milyen irányba menjünk?\"",
+        "\"ütemezd, ahogy jónak látod\""
+      ]
+    }
+  },
+  "CSAP": {
+    "factor_name": "Csapatmunka",
+    "Sziluett személyiségfaktor rövidítése:": "CSAP",
+    "Kategória ahová a faktor tartozik:": "Viselkedés",
+    "factor_description": "Ez a faktor megmutatja, milyen jelentőséggel bír számunkra a csoport együttes munkája, mennyire vesszük figyelembe mások véleményét, mennyire osztjuk meg az információkat, és a döntésekbe mennyire vonjuk be a társainkat. A függetlenebb, öntörvényűbb személyiségek kevésbé tartják szem előtt a kooperációt és az információcserét. A csapatjátékosok jobban igénylik az ötletek, javaslatok és tudnivalók egyeztetését, és akár a közös döntést is. ",
+    "LOW_Faktorértékek fő zónái:": "45295",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-független és önálló\r\n-információt visszatartó\r\n-öntörvényű\r\n-kerüli a csoportos döntéshozatalt\r\n-minimalizálja az együttműködést\r\n-jobban hisz a saját munkájában\r\n-nem szereti ha ellenőrizgetik",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-kooperatív, konzultatív\r\n-szeret együtt dönteni\r\n-nyitott az információcserére, megosztásra\r\n-igényli az egyeztetést\r\n-csapatorientált\r\n-elkötelezett a csapat céljai iránt",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "factor_shortage": "CSAP",
+    "low": {
+      "comfort_situations": [
+        "önállóan dolgozhat egy feladaton, akár kevés előzetes instrukcióval [pl.: területi képviselő munkakör]",
+        "ha nem kell gyakran egyeztetnie másokkal a feladatról",
+        "rövid, célzott meetingek vagy meeting helyett írásos tájékoztatás",
+        "a jól ismert területén belül maga menedzselheti a feladatait",
+        "ha csak a végeredményt várják tőle, anélkül, hogy közben kérdezgetik, hogy halad"
+      ],
+      "discomfort_situations": [
+        "gyakori, csoportos egyeztésen kell részt vennie [napi meetingek]",
+        "ahhoz, hogy sikeres legyen, nagyon másokra van utalva",
+        "mások ellenőrzik a munkáját",
+        "nyíltan kell beszélnie a haladásáról, mivel hol tart vagy a terveiről",
+        "szorosan együtt kell dolgoznia másokkal [pl.: IT projektmenedzser]",
+        "túl sok véleményt, gondolatot kell figyelembe vennie"
+      ],
+      "development_opportunities": [
+        "aktívan részt venni csapatmegbeszéléseken",
+        "heti státuszjelentést készíteni a projektről és megosztani a csapattagokkal",
+        "Egy projekt megkezdése előtt konzultálni a csapattal az elvégzendő lépésekről",
+        "Gyakorolni, hogy a felelősséget megossza a csapattal, előre meghatározni, hogy ki melyik részért felel"
+      ],
+      "typical_phrases": [
+        "Majd én megcsinálom",
+        "Ne ellenőrizgessenek.",
+        "Azért biztosabb, ha magam oldom meg.",
+        "A közös munka túl sok időt vesz el.",
+        "Nincs szükség fölösleges egyeztetésre.",
+        "Jobb, ha minden információ nálam van."
+      ],
+      "manager_motivation_phrases": [
+        "Bízom a döntéseidben, oldd meg úgy, ahogy jónak látod.",
+        "Nem kell másokat bevonni.",
+        "Nincs szükség mások jóváhagyására, csak csináld meg.",
+        "Rád bízom, de ha bármi kérdésed lenne, nyugodtan jelezd."
+      ]
+    },
+    "high": {
+      "comfort_situations": [
+        "ha másokkal közösen dolgozhat egy feladaton [pl.: az új BPR-t közösen dolgozza ki a csapat egy workshopon ]",
+        "ha a döntéseket a csapattal közösen hozzák meg",
+        "ha mindenki megosztja a tudását és a rendelkezésére álló adatokat [rendszeres stand-up meetingek]",
+        "ha a munkafolyamatok során szoros együttműködésre van szükség [pl.: gyártói környezet]",
+        "gyakran kell információt megosztani másokkal [pl.: logisztika - sales együttműködésében]"
+      ],
+      "discomfort_situations": [
+        "magára marad a feladatokkal [,,légüres térbe kerül\"], és nincs lehetőség csapatmunkára vagy egyeztetésre",
+        "nem kérheti ki mások véleményét",
+        "hiányzik a kooperáció, a csapat tagjai nem működnek együtt, és mindenki csak a saját dolgával foglalkozik [pl.: silósodás a szervezeten belül]",
+        "nincs információmegosztás, nem kapja meg időben az információkat, vagy nem tudja, hogy mi zajlik a csapaton belül [hiányoznak a meetingek]",
+        "ad-hoc kommunikációs csatornák [nincs egységes platform az infó megosztásra]",
+        "home office, elzártan történő munkavégzés"
+      ],
+      "development_opportunities": [
+        "egy adott feladat önálló kidolgozása, megoldása",
+        "rövid és lényegre törő státuszjelentés készítése",
+        "ritkítani az informális státuszmegbeszéléseket",
+        "Egy érzékeny információ megtartása, amíg nem releváns azt megosztani a többiekkel [határok meghúzása]"
+      ],
+      "typical_phrases": [
+        "Szeretném megbeszélni veletek",
+        "Döntsünk együtt",
+        "Oszd meg velem, hogy állsz.",
+        "A véleményed sokat számít.",
+        "Jó lenne, ha közösen átnéznénk ezt.",
+        "Osztom az információkat, hogy mindenki tudjon róla.",
+        "Beszéljük meg."
+      ],
+      "manager_motivation_phrases": [
+        "Kérlek, vond be a többieket is, hogy együtt haladjunk!",
+        "Beszéljük meg együtt a következő lépést!",
+        "Ez egy közös projekt, számítok a koordinációdra!",
+        "Az ötleteid sokat segítenek a közös gondolkodásban.",
+        "Nagyszerű csapatjátékos vagy!"
+      ]
+    }
+  },
+  "LÁT": {
+    "factor_name": "Látásmód",
+    "Sziluett személyiségfaktor rövidítése:": "LÁT",
+    "Kategória ahová a faktor tartozik:": "Viselkedés",
+    "factor_description": "Ez a faktor a dolgok kimenetelével kapcsolatos várakozásunkat mutatja. Az óvatosabbak, kétkedőbbek rendszerint egy rosszabb forgatókönyvvel tekintenek a jövőbe, és kevésbé bíznak az emberek jóindulatában. Az optimistábbak hisznek a sikeres kimenetelben, hogy bármely problémára megoldást lehet találni. Ők gyakrabban feltételezik mások konstruktív hozzáállását is. ",
+    "LOW_Faktorértékek fő zónái:": "1-4",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-bizalmatlan\r\n-probléma-orientált\r\n-kétkedő\r\n-óvatos, megfontolt\r\n-félig üres a pohár\r\n-ragaszkodik a múlt tapasztalataihoz\r\n-túlzottan kritikus\r\n-először mindig a problémákat, nehézségeket veszi sorba\r\n-bizonytalan testbeszéd [fejét ingatja, karját összefonja stb]",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-optimista\r\n-bizalommal fordul mások felé\r\n-megoldás-orientált\r\n-pozitív, nyitott testbeszéd jellemzi\r\n-bízik a dolgok pozitív kimenetelében\r\n-félig teli a pohár",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "factor_shortage": "LÁT",
+    "low": {
+      "comfort_situations": [
+        "kritikus gondolkodást igénylő feladatok [pl. kockázatelemzés, tesztelés - szoftver]",
+        "problémafeltáró feladatok [pl.:egy új termék vagy folyamat bevezetése előtt a hibák, gyengeségek feltárása]",
+        "részletes tervezés, ahol minden kockázatot számba lehet venni",
+        "olyan helyzetek, ahol minimális a bizonytalanság [pl.: audit protokoll követése]",
+        "múltbeli tapasztalatokra építő biztos megoldások,feladatok",
+        "ellenőrzési feladatok [pl.: BKV ellenőr, belső auditor munkakörök]"
+      ],
+      "discomfort_situations": [
+        "kipróbálatlan technológiák mindennapi alkalmazása [pl. béta szoftver használata]",
+        "olyan döntést kell hozniuk, amelyben jelentős kockázatot érzékelnek",
+        "csapatban végzett munkánál, ha túl optimisták a tagok",
+        "új technológia, rendszer vagy módszer bevezetése [pl.: új vállalatirányítási rendszer kerül]"
+      ],
+      "development_opportunities": [
+        "Készítsen „mi működhet” listát minden „miért nem működik” helyett.",
+        "Gyakorolja a várható eredmények elemzését és priorizálását, hogy ne minden helyzet tűnjön túl kockázatosnak",
+        "Készítsen pozitív szófordulatok szótárat magának",
+        "Hozzon példákat korábbi sikeres együttműködésekből, feladatmegoldásokból",
+        "Készítsen előre döntési sablonokat, amelyek megkönnyítik az elhatározást kritikus helyzetekben"
+      ],
+      "typical_phrases": [],
+      "manager_motivation_phrases": []
+    },
+    "high": {
+      "comfort_situations": [
+        "Megoldás-orientált helyzetek, a fókusz a hogyan oldjuk meg kérdésen van",
+        "ha hosszú távú célokért dolgozhatnak, amelyek optimista jövőképet mutatnak [pl.: fenntarthatósági projekt]",
+        "sikerorientált feladatok [pénügyi, biztosítási tanácsadás - ,,feltétel nélküli hit a lehetetlenben\"]",
+        "megoldásorientált munkatársak és vezetők"
+      ],
+      "discomfort_situations": [
+        "Tartósan negatív vagy pesszimista környezetben kell dolgozni",
+        "Rossz forgatókönyveket feltételező vezetők, fókusz a kudarcokon",
+        "Munkája során kizárólag problémák feltárása a feladata, megoldási javaslatok nélkül [pl.: reklamáció feltárása, helyesbítő intézkedés nélkül]"
+      ],
+      "development_opportunities": [
+        "Gyakorolja a potenciális kockázatok és akadályok azonosítását a tervezési folyamat részeként",
+        "Vegyen részt olyan feladatokban, ahol a problémák feltárása és megértése a cél",
+        "Gyakorolja, hogy egy-egy projekt előtt tartalékforgatókönyvet is készít",
+        "Elemezze a múltbeli kudarcokat, hogy megértse, milyen tényezők vezettek oda"
+      ],
+      "typical_phrases": [
+        "Mindenre van megoldás.",
+        "Ezt meg tudjuk oldani.",
+        "Jól fog sikerülni.",
+        "Menni fog.",
+        "Próbáljuk ki!",
+        "Menjünk tovább, majd javítjuk útközben.",
+        "Lássuk, hogyan tudjuk megoldani.",
+        "Ez könnyebb lesz, mint gondolnánk.",
+        "Alig várom.",
+        "Megcsináljuk",
+        "Jó lesz"
+      ],
+      "manager_motivation_phrases": [
+        "Alig várom, hogy lássam, mit hozol ki belőle!",
+        "Minden nehézség egy új lehetőség, nézzük meg, hogyan fordíthatjuk előnyünkre!",
+        "A végén minden jól fog alakulni, hiszek benne.",
+        "Ez egy olyan projekt, ami igazán megmutatja, mire vagyunk képesek.",
+        "A végén fantasztikus eredményeket fogunk látni.",
+        "A te hozzáállásod inspirálja a többieket is.",
+        "Ne aggódj, ha nem működik elsőre, mindig van másik út."
+      ]
+    }
+  },
+  "EMO": {
+    "factor_name": "Emocionalitás",
+    "Sziluett személyiségfaktor rövidítése:": "EMO",
+    "Kategória ahová a faktor tartozik:": "Viselkedés",
+    "factor_description": "Ez a faktor az érzelmi, illetve a tárgyilagos működésünk arányát fejezi ki. Az inkább érzelmi működéssel bíró személyek jellemzően hallgatnak a megérzéseikre, bíznak az ösztöneikben, ami befolyásolja döntéseiket. Kommunikációjukat gyakran kíséri érzelmi reakció. A tárgyilagosabban működő karakterek mindenekelőtt a probléma tényszerű megismerésére, megértésére törekednek, fontos számukra annak racionális lebontása. Az ő kommunikációjuk hangneme gyakran érzelemmentesebb. ",
+    "LOW_Faktorértékek fő zónái:": "1-4",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-tényekre fókuszál\r\n-,,raci-manci\"\r\n-érzelemmentesen dönt\r\n-lényegretörő, logikusan érvelő\r\n-racionális \r\n-objektív\r\n-,,pókerarc\"\r\n-nem szereti a hisztit\r\n-érzelmi megközelítést hajlamos irrelevánsnak tartani\r\n-nem függ mások érzelmi reakcióitól vagy megnyilvánulásaitól\r\n-az a lényeg amit mond",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-Az érzelmek erősen befolyásolják a gondolkodását és döntései\r\n-hallgat a megérzéseire\r\n-az a fontos, ahogy mondja\r\n-Arcán és testbeszédében is tükröződnek az érzelmei\r\nMélyen beleéli magát a helyzetekbe, akár pozitív, akár negatív irányban\r\n-empatikus\r\n-intuitív\r\n-A kommunikációja gazdag érzelmi töltettel bír\r\n-Hajlamos érzelmi hullámzásokra\r\n-Érzelmi alapú megerősítésre van szüksége, hogy motivált maradjon.\r\n-emberi kapcsolataiban az érzelmek dominálnak\r\n-Kiemelten fontos neki, hogy a környezetében pozitív légkör legyen\r\n-Az érzelmi töltet hajtja a kreatív tevékenységeit",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "factor_shortage": "EMO",
+    "low": {
+      "comfort_situations": [
+        "Tényeken alapuló beszélgetések [pl.: pénzügyi meeting a havi jelentés számainak áttekintéséről]",
+        "Amikor minden lépés logikusan meg van határozva, és nincs helye érzelmi kitöréseknek [pl.: épület homlokzatának megtervezése, gép használati útmutató szerinti üzembe helyezése]",
+        "a visszajelzések tényszerűek, egyértelműek",
+        "Olyan szituációkat, ahol a problémákat érzelmi megközelítés helyett konkrét adatok és tények alapján kell megoldani [pl.: veszteséges termékek forgalmazásának megszűntetése]",
+        "Nyugodt, érzelemmentes környezet",
+        "Objektív, célorientált munkakörnyezet"
+      ],
+      "discomfort_situations": [
+        "Érzelmileg túlfűtött helyzetekben kell dolgoznia [pl: meetingen vita alakul ki, hangos szóváltás, személyeskedés]",
+        "Érzelmek dominálnak a döntéshozatalban [pl: előléptetés szimpátia alapján]",
+        "Személyes érzelmek/történetek kerülnek a fókuszba [pl: ki, hogy érzi magát, Pszichológussal beszélgetni]",
+        "Érzelmi intuícióra támaszkodnak az együttműködésben [úgy érzem így jó lesz]",
+        "A vezető érzelmi töltetű visszajelzéseket ad [pl: ,,Ez a projekt boldoggá tett engem, de mintha te nem érezted volna át a fontosságát\"]",
+        "Érzelmileg kaotikus környezet [pl: meeting, ahol egyszerre beszél mindenki és próbálják túlkiabálni egymást]"
+      ],
+      "development_opportunities": [
+        "Hetente egyszer próbáljon meg érzelmi töltetű visszajelzést adni egy kollégának",
+        "Keressen olyan érzelmeket kifejező szavakat, amelyek beférnek a személyes szótárába",
+        "Figyeljen a nem verbális kommunikáció [pl. mosoly, mimika] tudatos alkalmazására",
+        "Empatikus hallgatás - egy értekezleten figyeljen kifejezetten arra, hogy megértést mutasson",
+        "Amikor egy kolléga panaszkodik, kérdezzen vissza az érzéseire",
+        "Amikor egy problémát bemutat, a tények mellett próbáljon meg kifejezni a pozitív lelkesültségét"
+      ],
+      "typical_phrases": [
+        "oké",
+        "rendben",
+        "igen-nem",
+        "tudom",
+        "logikus",
+        "tényszerű",
+        "ezek a számok",
+        "Mit kell pontosan csinálni?",
+        "Nyugodjunk meg",
+        "Ne reagáljuk túl",
+        "Ne hagyjuk, hogy az érzések befolyásoljanak",
+        "Ez nem olyan nagy ügy."
+      ],
+      "manager_motivation_phrases": [
+        "Tökéletesen logikus az érvelésed.",
+        "Az adatok azt mutatják, hogy jó úton járunk.",
+        "Lépésről lépésre haladjunk, ahogy megbeszéltük.",
+        "Nagyon jól következtettél, ez egy okos döntés volt.",
+        "Ez a döntés racionálisan a legjobb megoldás.",
+        "Kiválóan érveltél."
+      ]
+    },
+    "high": {
+      "comfort_situations": [
+        "Amikor az emberek kimutatják érzelmeiket, és nyitottak az érzéseik megosztására",
+        "Az érzelmekkel átszőtt kommunikációt, ahol a visszajelzések érzelmi töltettel bírnak [pl. Hihetetlenül büszke vagyok rád, mert ez a projekt igazán megmutatta, mennyire kitartó és kreatív vagy]",
+        "Intuitív döntéshozatali helyzetek",
+        "Olyan munkákat, ahol a szenvedély és a lelkesedés hajtja a csapatot [pl.: nonprofit esemény szervezése]",
+        "Csapatépítők, közös ünneplések, vagy olyan helyzetek, ahol érzelmi kapcsolódás történik a kollégákkal [pl.: sztorizgatás]"
+      ],
+      "discomfort_situations": [
+        "Tárgyilagos, érzelemmentes környezetben dolgozik [orvosi, jogi területek]",
+        "Egy érzelmi alapú visszajelzését félvállról veszik [pl: kimerültem, elfáradtam és szabadságra kell mennem - nem foglalkoznak vele]",
+        "Hideg és távolságtartó vezetői stílus [pl: nem kérdezi meg hogy vagy]",
+        "Nincs lehetőség érzések kifejezésére [pl: jogi tárgyalás]",
+        "A kollégák érzelemmentesen, közönyösen viszonyulnak egymáshoz egy konfliktus során [munkatársak azt hangoztatják, hogy ez egy munkahely és nem óvoda]"
+      ],
+      "development_opportunities": [
+        "Érzelmek helyett tényekre koncentrálás, tények és adatok előtérben",
+        "Érzelmi szavak helyett semlegesebb, eseményt, történést kifejező szavak használata",
+        "Higgadt reakciók gyakorlása, koncentrálás az érzelmi egyensúly megőrzésére egy-egy feszültebb helyzetben",
+        "Érzelmileg intenzív helyzetben lélegezzen mélyet, és mondjon semleges válaszokat",
+        "Visszajelzésnél próbálja a tényekre és konkrétumokra építeni a mondanivalóját"
+      ],
+      "typical_phrases": [
+        "örülök",
+        "sajnálom",
+        "szomorú voltam",
+        "megértem",
+        "csalódtam",
+        "Érzem, hogy nehéz lehetett",
+        "Csodálatos",
+        "Inspiráló",
+        "nagyon tetszik",
+        "úgy érzem...",
+        "kicsit aggódom emiatt..",
+        "Ez nekem nagyon sokat jelent.",
+        "Mesélj, hogy érzed magad."
+      ],
+      "manager_motivation_phrases": [
+        "Ha bármiben bizonytalan vagy, kérlek, szólj, itt vagyok, hogy segítsek.",
+        "Megértem, hogy miért érzel így, és dolgozzunk együtt a megoldáson.",
+        "Hogy érzed magad ezzel kapcsolatban?",
+        "Hihetetlen, milyen lelkesedéssel álltál hozzá, ez igazán inspiráló.",
+        "Ez igazán lenyűgöző, folytassuk ezen az úton!",
+        "Hogy vagy most a projekttel? Minden rendben?"
+      ]
+    }
+  },
+  "KAP": {
+    "factor_name": "Kapcsolódás",
+    "Sziluett személyiségfaktor rövidítése:": "KAP",
+    "Kategória ahová a faktor tartozik:": "Viselkedés",
+    "factor_description": "Ez a faktor a társasági igényeinket jellemzi. A zárkózottabb, csendesebb, introvertáltabb személyiségeket inkább feltöltik az egyedül, önállóan végezhető tevékenységek. Ők kevesebb emberrel tartanak -általában mélyebb -kapcsolatot, és kevesebbet csevegnek másokkal. A nyitottabb, extrovertáltabbak a társas programokban érzik jól magukat, szeretnek új emberekkel megismerkedni és a figyelem középpontjában lenni, gyakran többet beszélni. ",
+    "LOW_Faktorértékek fő zónái:": "1-4",
+    "HIGH_Faktorértékek fő zónái:": "5-8",
+    "LOW_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "-Minél alacsonyabb a faktorérték, az adott személy annál inkább:\r\n-zárkózott\r\n-introvertált\r\n-jobban érzi magát megszokott, ismert környezetben\r\n-kommunikációja lényegretörő\r\n-kerüli a csevegést, „small talk”-ot\r\n-hallgat, figyeli a környezetét\r\n-Nem szívesen kezdeményez beszélgetést\r\n-Nehezebben alakít ki új kapcsolatokat\r\n-A meglévő, stabil kapcsolatokra fókuszál\r\n-Nem érzi jól magát a figyelem középpontjában\r\n",
+    "HIGH_A zónán belüli faktorértékkel rendelkező személyek jellemzői:": "Minél magasabb a faktorérték, az adott személy annál inkább:\r\n-extrovertált\r\n-beszédes\r\n-Energiát nyer az interakciókból és a társasági jelenlétből\r\n-Szereti a társasági eseményeket, és jól érzi magát nagyobb csoportokban\r\n-Könnyen alakít ki új kapcsolatokat\r\n-Gyorsan megtalálja a közös hangot másokkal\r\n-Szeret a figyelem középpontjában lenni\r\n-Szívesen oszt meg saját gondolatokat, ötleteket csoportban is\r\n-Könnyen alkalmazkodik mások kommunikációs stílusához\r\n-Szereti a kötetlen beszélgetéseket és a „small talk”-ot\r\n-Nem okoz gondot új emberek megszólítása vagy ismerkedés\r\n-Könnyen ráhangolódik a környezetében lévő emberekre",
+    "LOW_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel komfortos az együttműködése:": "Akivel csak 1-2 faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "LOW_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "HIGH_A faktoron belül ezekkel a személyekkel diszkomfortos az együttműködése:": "Akivel 2-nél több faktorértéknyi távolságra van az 1-8-ig terjedő skálán.",
+    "factor_shortage": "KAP",
+    "low": {
+      "comfort_situations": [
+        "Csendes környezetet",
+        "Olyan helyzeteket, ahol a társaság már megszokott és kiszámítható",
+        "Rövid, lényegretörő megbeszélések, ahol nincs szükség csevegésre",
+        "ha nem kell aktívan hozzászólnia egy találkozón",
+        "Írásban történő kommunikáció [e-mail, chat]",
+        "Egyéni munkavégzés, home office"
+      ],
+      "discomfort_situations": [
+        "Új kollégákkal vagy ügyfelekkel kell beszélgetnie anélkül, hogy lenne előzetes kapcsolata velük [hunter sales]",
+        "Csapatépítők, céges ünnepségek, ahol elvárják a részvételt és az aktív kommunikációt",
+        "Társalgási helyzetek, ahol nincs konkrét téma, és elvárják, hogy hozzászóljon vagy „small talk”-oljon",
+        "Prezentációt kell tartania egy nagyobb csoport előtt",
+        "Folyamatosan egyeztetnie kell másokkal [pl.: projektmenedzserként ügyfelekkel, kollégákkal]",
+        "Zajos, interaktív munkakörnyezet [pl. Open office]",
+        "Szerepeket kell felvennie [például csapatvezetőként lelkesíteni], ami számára kényelmetlen",
+        "műsorvezetőnek lenni, színpadra állni"
+      ],
+      "development_opportunities": [
+        "Tudatosan próbáljon meg „small talk”-ot kezdeményezni az érdeklődésének megfelelő témában",
+        "Kisebb létszámú, jól ismert csapatok előtt prezentáljon",
+        "Kezdeményezzen beszélgetéseket és ossza meg véleményét csapatmegbeszéléseken",
+        "Kisebb, informális céges eseményeken [pl. közös kávézás, ebéd] vegyen részt"
+      ],
+      "typical_phrases": [
+        "Röviden, a lényeg..",
+        "Szeretek egyedül lenni",
+        "Nincs szükség sok beszédre.",
+        "Röviden összefoglalva...",
+        "Köszönöm, nincs több kérdésem.",
+        "Egy kicsit hadd gondolkodjak még ezen."
+      ],
+      "manager_motivation_phrases": [
+        "Nyugodtan dolgozhatsz egyedül ezen a feladaton",
+        "Ha kérdésed van, szólj nyugodtan, de addig nem zavarlak.",
+        "Csak a fontos részleteket osszuk meg egymással.",
+        "Hagyok neked teret, hogy átgondold a részleteket."
+      ]
+    },
+    "high": {
+      "comfort_situations": [
+        "Csapatépítők, közös vacsorák, születésnapi ünnepségek",
+        "Szereplési lehetőséghez jut egy megbeszélésen [prezentáció, előadás tartása]",
+        "olyan projektek vagy események, ahol új kapcsolatokra tehet szert [pl: szakmai reggeli]",
+        "Olyan munkakörnyezet, ahol a kollégák körülette vannak [pl. egy irodában]",
+        "személyes, szemtől szembeni beszélgetéseket",
+        "kötetlen beszélgetések munka közben is",
+        "nyilvánosan megdicsérik"
+      ],
+      "discomfort_situations": [
+        "hosszú ideig kell egyedül dolgoznia, interakció nélkül [pl. remote]",
+        "Csak írásban kommunikálhat [e-mail, chat]",
+        "Nem vehet részt csapatépítő eseményeken, céges rendezvényeken",
+        "Nincs lehetőség kapcsolatépítésre [pl.: kisebb könyvelői csapatban dolgozik]"
+      ],
+      "development_opportunities": [
+        "Gyakorolja, hogy a felszínes beszélgetések mellett mélyebb témákra is fókuszáljon",
+        "Igyekezzen nemet mondani olyan helyzetekre, ahol nem elengedhetetlen a részvétele",
+        "Mérje, hogy mennyi időt veszít informális beszélgetésekkel",
+        "Egy beszélgetés során igyekezzen kérdező pozícióban maradni"
+      ],
+      "typical_phrases": [
+        "Képzeld el, mi történt!",
+        "Mesélj, mi újság veled?",
+        "Szívesen meghallgatnám a véleményed.",
+        "Ezt megbeszélhetnénk részletesebben.",
+        "Imádok emberekkel dolgozni!",
+        "Hadd osszam meg egy ötletemet!"
+      ],
+      "manager_motivation_phrases": [
+        "Menjetek nyugodtan közösen ebédelni, utána megbeszéljük a részleteket.",
+        "Értékelem, hogy aktívan hozzájárulsz a beszélgetésekhez.",
+        "Nagyon jó, hogy te képviseled a csapat véleményét.",
+        "Jó, hogy ilyen könnyen teremtesz kapcsolatot új kollégákkal.",
+        "Tök jó, hogy mindig nyitott vagy!"
+      ]
+    }
+  }
+}
