@@ -7,7 +7,7 @@ import json
 from typing import Dict, List, Tuple, Any, Optional, Literal
 
 import numpy as np
-from sentence_transformers import SentenceTransformer
+#from sentence_transformers import SentenceTransformer
 
 from inference import (
     compute_centroids_for_inference,
@@ -235,7 +235,7 @@ class PersonaEngine:
         self.batch_size = int(batch_size)
         self.progress = bool(progress)
 
-        self.model: Optional[SentenceTransformer] = None
+        self.model: Optional[str] = None
         self.centroids: Dict[str, np.ndarray] = {}
         self.pos_calib: Dict[str, Tuple[float, float]] = {}
         self.anchor_texts: List[str] = []
