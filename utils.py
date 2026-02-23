@@ -17,7 +17,7 @@ from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple, Literal
 
 import json
 import numpy as np
-from sentence_transformers import SentenceTransformer
+#from sentence_transformers import SentenceTransformer
 
 try:
     from tqdm.auto import tqdm  # type: ignore
@@ -189,7 +189,7 @@ def collect_passages_with_labels(
 # =========================
 
 def encode_texts(
-    model: SentenceTransformer,
+    model: str,
     texts: Sequence[str],
     batch_size: int = 64,
     normalize: bool = True,
@@ -236,7 +236,7 @@ def factor_lowhigh_labels(factors: Sequence[str]) -> List[str]:
 # =========================
 
 def centroids_query_lowhigh(
-    model: SentenceTransformer,
+    model: str,
     factors: Sequence[str],
     normalize: bool = True,
     batch_size: int = 64,
@@ -252,7 +252,7 @@ def centroids_query_lowhigh(
 
 
 def centroids_passage_mean_lowhigh(
-    model: SentenceTransformer,
+    model: str,
     index: Dict[str, Dict[Polarity, List[str]]],
     normalize_embeddings: bool = True,
     batch_size: int = 64,
@@ -307,7 +307,7 @@ def centroids_passage_mean_lowhigh(
 
 
 def compute_centroids(
-    model: SentenceTransformer,
+    model: str,
     raw_or_index: Sequence[Dict[str, Any]] | Dict[str, Dict[Polarity, List[str]]],
     mode: CentroidMode = "query",
     factors: Optional[Sequence[str]] = None,
@@ -532,7 +532,7 @@ def accuracy(y_true: Sequence[str], y_pred: Sequence[str]) -> float:
 # =========================
 
 def estimate_factor_scores_for_text(
-    model: SentenceTransformer,
+    model: str,
     centroids: Dict[str, np.ndarray],
     text: str,
     pos_calib: Optional[Dict[str, Tuple[float, float]]] = None,
